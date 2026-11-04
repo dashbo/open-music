@@ -17,3 +17,17 @@ one click.
 ## Sources and licences
 
 See [ATTRIBUTION.md](ATTRIBUTION.md). To remove a score, delete its file and entry.
+
+## Naming the parts
+
+The app names voices by range, as if every score were a mixed choir. When that
+would be wrong, add either of these to an entry in `catalog.json`:
+
+- `"style": "barbershop"`: names the four parts Tenor, Lead, Baritone, Bass
+  (top to bottom as written) and gives them tenor/tenor/bass/bass voice types.
+- `"partLabels": [{ "name": "Soprano", "voiceType": "soprano" }, ...]`: your own
+  names, top to bottom. `voiceType` is optional (`soprano`, `alto`, `tenor`,
+  `bass`, `other`). Wins over `style`.
+
+Labels are only applied when the score has exactly as many parts as labels.
+
