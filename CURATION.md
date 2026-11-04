@@ -2,6 +2,15 @@
 
 Picks for the catalog, by category. **Draft, 2026-11-03.** Nothing here is in `catalog.json` yet.
 
+## Status (2026-11-04)
+
+Added to `catalog.json` (9 entries, catalog now 21):
+
+- **Quartets (4, OS):** Haydn Op.64 No.5 "The Lark", Haydn Op.20 No.4, Mozart K.465 "Dissonance", Saint-Georges Op.1 No.1. These import with four properly named parts (Violin 1, Violin 2, Viola, Violoncello).
+- **Barbershop (5, CPDL):** Sweet Adeline, Peg o' My Heart, When You Wore a Tulip, Heidelberg Stein Song (all TTBB, labelled Tenor/Lead/Baritone/Bass), and Down by the Old Mill Stream (three-part). Under the CPDL License, not CC0; see `ATTRIBUTION.md`. Not yet reviewed by a barbershop singer.
+
+**Waiting on an app change:** the other 41 of the 47 quartets checked import with 5-13 parts named "Soprano", "Alto", "Violin 1 2" and so on, because the app splits any instrument part that has more than one voice (double stops, divisi) into separate parts. Only the 6 whose violins have a single voice come out clean. Two of those six are single movements of larger works (Mozart K.464 and Mayer Op.14) and were not added. Add the rest once the app keeps instrument parts whole.
+
 Sources and what they guarantee:
 - **OS** = OpenScore Lieder / String Quartets (github.com/OpenScore), CC0, transcribed from IMSLP sources. Official `.mxl` files exist for every score; no conversion needed.
 - **PDMX** = Zenodo record 15571083. License is **uploader-declared** (public domain mark or CC0), not verified. Only pieces whose *composition* is old public domain were picked, from the subset with no license conflict. Re-check each before publishing.
