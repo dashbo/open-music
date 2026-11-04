@@ -1,4 +1,227 @@
 {
   "version": 1,
-  "scores": []
+  "scores": [
+    {
+      "id": "lc6644635",
+      "title": "How Delicious is the Winning",
+      "composer": "Amelia Lehmann",
+      "lyricist": "Thomas Campbell",
+      "collection": "How Delicious is the Winning",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Voice",
+        "Piano"
+      ],
+      "file": "scores/lc6644635.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/Special:ReverseLookup/285345",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Lehmann,_Amelia/_/How_Delicious_is_the_Winning/lc6644635.mscx",
+      "credit": "Transcribed from IMSLP #285345. Source: https://imslp.org/wiki/Special:ReverseLookup/285345"
+    },
+    {
+      "id": "lc5925129",
+      "title": "La Belle Madeleine",
+      "composer": "Augusta Holmès",
+      "lyricist": "(Holmès)",
+      "collection": "Contes divins",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Chant Voice",
+        "Piano"
+      ],
+      "file": "scores/lc5925129.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/Contes_divins_(Holm%C3%A8s%2C_Augusta_Mary_Anne",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Holmès,_Augusta_Mary_Anne/Contes_divins/4_La_Belle_Madeleine/lc5925129.mscx",
+      "credit": "Transcribed by Eloge from IMSLP #588109. Source: https://imslp.org/wiki/Contes_divins_(Holm%C3%A8s%2C_Augusta_Mary_Anne)"
+    },
+    {
+      "id": "lc6681689",
+      "title": "Out in the windy West",
+      "composer": "Charles Villiers Stanford",
+      "lyricist": "Arthur Christopher Benson",
+      "collection": "“Choral Songs in honour of Her Majesty Queen Victoria”, 1899",
+      "voicing": "Choral (7 voices)",
+      "voices": 7,
+      "parts": [
+        "Soprano",
+        "Soprano II",
+        "Alto",
+        "Tenor I",
+        "Tenor II",
+        "Bass I",
+        "Bass II",
+        "Piano for practice only"
+      ],
+      "file": "scores/lc6681689.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/Special:ReverseLookup/584347",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Parratt,_Walter/Choral_Songs_in_Honour_of_Her_Majesty_Queen_Victoria/02_Out_in_the_windy_West/lc6681689.mscx",
+      "credit": "Series editor of original edition: Sir Walter Parratt. Transcribed from IMSLP #584347. Source: https://imslp.org/wiki/Special:ReverseLookup/584347"
+    },
+    {
+      "id": "lc6474919",
+      "title": "Come to Me in my Dreams, H.71",
+      "composer": "Frank Bridge",
+      "lyricist": "Matthew Arnold",
+      "collection": "Come to Me in my Dreams, H.71",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Voice",
+        "Piano"
+      ],
+      "file": "scores/lc6474919.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/Special:ReverseLookup/225772",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Bridge,_Frank/_/Come_to_Me_in_my_Dreams,_H.71/lc6474919.mscx",
+      "credit": "Transcribed by markpearse from IMSLP #225772 . Source: https://imslp.org/wiki/Special:ReverseLookup/225772"
+    },
+    {
+      "id": "lc7071193",
+      "title": "Liebesrausch, D.179",
+      "composer": "Franz Schubert",
+      "lyricist": "Theodor Körner",
+      "collection": "Liebesrausch",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Singstimme Voice",
+        "Pianoforte"
+      ],
+      "file": "scores/lc7071193.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/Special:ReverseLookup/14336",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Schubert,_Franz/_/Liebesrausch,_D.179/lc7071193.mscx",
+      "credit": "Transcribed by DanielR from IMSLP #14336. Source: https://imslp.org/wiki/Special:ReverseLookup/14336"
+    },
+    {
+      "id": "lc5067692",
+      "title": "Der Frühling",
+      "composer": "Johannes Brahms",
+      "lyricist": "Johann Baptist Rousseau",
+      "collection": "6 Songs, Op.6",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Singstimme Voice",
+        "Pianoforte"
+      ],
+      "file": "scores/lc5067692.mxl",
+      "license": "CC0-1.0",
+      "source": "http://imslp.org/wiki/6_Songs,_Op.6_(Brahms,_Johannes",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Brahms,_Johannes/6_Songs,_Op.6/2_Der_Frühling/lc5067692.mscx",
+      "credit": "Transcribed from edition IMSLP #97689: http://imslp.org/wiki/6_Songs,_Op.6_(Brahms,_Johannes)"
+    },
+    {
+      "id": "lc5058636",
+      "title": "Mein wundes Herz",
+      "composer": "Johannes Brahms",
+      "lyricist": "Klaus Groth",
+      "collection": "8 Lieder und Gesänge, Op.59",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Singstimme Voice",
+        "Pianoforte"
+      ],
+      "file": "scores/lc5058636.mxl",
+      "license": "CC0-1.0",
+      "source": "http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Brahms,_Johannes/8_Lieder_und_Gesänge,_Op.59/7_Mein_wundes_Herz/lc5058636.mscx",
+      "credit": "Transcribed by fredipi from IMSLP# 81993. Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes)"
+    },
+    {
+      "id": "lc6085883",
+      "title": "Gib dich dahin in Gottes Sinn",
+      "composer": "Josephine Lang",
+      "lyricist": "Albert Zeller",
+      "collection": "Lieder des Leids, Op.29",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Singstimme Voice",
+        "Pianoforte"
+      ],
+      "file": "scores/lc6085883.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/Lieder_des_Leids,_Op.29_(Lang,_Josephine",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Lang,_Josephine/Lieder_des_Leids,_Op.29/3_Gib_dich_dahin_in_Gottes_Sinn/lc6085883.mscx",
+      "credit": "Transcribed by markpearse from IMSLP #617600. Source: https://imslp.org/wiki/Lieder_des_Leids,_Op.29_(Lang,_Josephine)"
+    },
+    {
+      "id": "lc5046362",
+      "title": "Die Wiese",
+      "composer": "Louise Reichardt",
+      "lyricist": "(Aus Herders Volksliedern)",
+      "collection": "Zwölf Gesänge",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Voice",
+        "Piano"
+      ],
+      "file": "scores/lc5046362.mxl",
+      "license": "CC0-1.0",
+      "source": "https://github.com/OpenScore/Lieder/blob/main/scores/Reichardt,_Louise/12_Gesänge,_Op.3/07_Die_Wiese/lc5046362.mscx",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Reichardt,_Louise/12_Gesänge,_Op.3/07_Die_Wiese/lc5046362.mscx"
+    },
+    {
+      "id": "lc6491478",
+      "title": "Das Blümchen Wunderhold",
+      "composer": "Ludwig van Beethoven",
+      "lyricist": "Gottfried August Bürger",
+      "collection": "8 Lieder, Op.52",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Voice",
+        "Piano"
+      ],
+      "file": "scores/lc6491478.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/Special:ReverseLookup/47274",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Beethoven,_Ludwig_van/8_Lieder,_Op.52/8_Das_Blümchen_Wunderhold/lc6491478.mscx",
+      "credit": "Transcribed by pental from IMSLP #47274. Source: https://imslp.org/wiki/Special:ReverseLookup/47274"
+    },
+    {
+      "id": "lc5043594",
+      "title": "Trauer",
+      "composer": "Peter Cornelius",
+      "lyricist": "Peter Cornelius",
+      "collection": "Trauer und Trost, Op.3",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Voice",
+        "Piano"
+      ],
+      "file": "scores/lc5043594.mxl",
+      "license": "CC0-1.0",
+      "source": "http://imslp.org/wiki/Trauer_und_Trost%2C_Op.3_(Cornelius%2C_Peter",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Cornelius,_Peter/Trauer_und_Trost,_Op.3/1_Trauer/lc5043594.mscx",
+      "credit": "Transcribed by ashmoggs from IMSLP# 80679. Source: http://imslp.org/wiki/Trauer_und_Trost%2C_Op.3_(Cornelius%2C_Peter)"
+    },
+    {
+      "id": "lc6604179",
+      "title": "Les langueurs",
+      "composer": "Sophie Gail",
+      "lyricist": "Unknown",
+      "collection": "Les langueurs",
+      "voicing": "Vocal duet",
+      "voices": 2,
+      "parts": [
+        "1er Dessus Voice 1",
+        "2d Dessus Voice 2",
+        "Piano"
+      ],
+      "file": "scores/lc6604179.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/Special:ReverseLookup/173062",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Gail,_Sophie/_/Les_langueurs/lc6604179.mscx",
+      "credit": "Transcribed from IMSLP #173062. Source: https://imslp.org/wiki/Special:ReverseLookup/173062"
+    }
+  ]
 }
