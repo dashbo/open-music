@@ -2,6 +2,46 @@
   "version": 1,
   "scores": [
     {
+      "id": "sq8811375",
+      "title": "String Quartet No.1",
+      "composer": "Alexander Borodin",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq8811375.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/5108581",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Borodin%2C_Alexander/String_Quartet_No.1",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5108581",
+      "category": "String quartets"
+    },
+    {
+      "id": "sq10675759",
+      "title": "String Quartet No.2",
+      "composer": "Alexander Borodin",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq10675759.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/5108662",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Borodin%2C_Alexander/String_Quartet_No.2",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5108662",
+      "category": "String quartets"
+    },
+    {
       "id": "lc6644635",
       "title": "How Delicious is the Winning",
       "composer": "Amelia Lehmann",
@@ -17,7 +57,183 @@
       "license": "CC0-1.0",
       "source": "https://imslp.org/wiki/Special:ReverseLookup/285345",
       "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Lehmann,_Amelia/_/How_Delicious_is_the_Winning/lc6644635.mscx",
-      "credit": "Transcribed from IMSLP #285345. Source: https://imslp.org/wiki/Special:ReverseLookup/285345"
+      "credit": "Transcribed from IMSLP #285345. Source: https://imslp.org/wiki/Special:ReverseLookup/285345",
+      "category": "Art songs"
+    },
+    {
+      "id": "sq14387632",
+      "title": "String Quartet, Op. 89",
+      "composer": "Amy Beach",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq14387632.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/6406540",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Beach%2C_Amy/String_Quartet%2C_Op._89",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/6406540",
+      "category": "String quartets"
+    },
+    {
+      "id": "cpdl-09307",
+      "title": "Sumer is icumen in",
+      "composer": "Anonymous",
+      "collection": "Choral and sacred",
+      "voicing": "Choral",
+      "voices": 0,
+      "parts": [
+        "I",
+        "III",
+        "IV",
+        "Pes I",
+        "Pes II"
+      ],
+      "file": "scores/cpdl-09307.mxl",
+      "license": "CPDL License",
+      "licenseUrl": "https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL",
+      "source": "https://www.cpdl.org/wiki/index.php/Sumer_is_icumen_in_(Anonymous)",
+      "editor": "Brian Russell",
+      "cpdl": "09307",
+      "credit": "Brian Russell. Sumer is icumen in (Anonymous), CPDL #09307. Choral Public Domain Library (ChoralWiki), https://www.cpdl.org/wiki/index.php/Sumer_is_icumen_in_(Anonymous).",
+      "notice": "Edition by Brian Russell, Choral Public Domain Library (CPDL #09307). Distributed under the CPDL License: it may be copied, performed, recorded and modified, provided this notice stays with it and any derived edition is released under the same licence. https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL",
+      "category": "Choral and sacred"
+    },
+    {
+      "id": "cpdl-88910",
+      "title": "Swing low",
+      "composer": "Anonymous (Negro spiritual)",
+      "collection": "Patriotic and folk",
+      "voicing": "Choral (4 voices)",
+      "voices": 4,
+      "parts": [
+        "Soprano",
+        "Alto",
+        "Tenor",
+        "Bass"
+      ],
+      "file": "scores/cpdl-88910.mxl",
+      "license": "Public Domain (as marked by the editor)",
+      "source": "https://www.cpdl.org/wiki/index.php/Swing_low_(Anonymous_(Negro_Spiritual))",
+      "editor": "Eduardo Méndez",
+      "cpdl": "88910",
+      "credit": "Eduardo Méndez. Swing low (Anonymous, Negro Spiritual), CPDL #88910. Choral Public Domain Library (ChoralWiki), https://www.cpdl.org/wiki/index.php/Swing_low_(Anonymous_(Negro_Spiritual)).",
+      "notice": "Edition by Eduardo Méndez, Choral Public Domain Library (CPDL #88910), marked Public Domain by the editor. Melody and text from Rodeheaver's Plantation Melodies (1918), copyright 1918 by Homer A. Rodeheaver; now public domain.",
+      "category": "Patriotic and folk"
+    },
+    {
+      "id": "cpdl-55873",
+      "title": "Ave Maria, WAB 6",
+      "composer": "Anton Bruckner",
+      "collection": "Choral and sacred",
+      "voicing": "Vocal duet",
+      "voices": 2,
+      "parts": [
+        "Sopran",
+        "Alt",
+        "Tenor",
+        "Bass"
+      ],
+      "file": "scores/cpdl-55873.mxl",
+      "license": "CPDL License",
+      "licenseUrl": "https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL",
+      "source": "https://www.cpdl.org/wiki/index.php/Ave_Maria,_WAB_6_(Anton_Bruckner)",
+      "editor": "John Christensen",
+      "cpdl": "55873",
+      "credit": "John Christensen. Ave Maria, WAB 6 (Bruckner), CPDL #55873. Choral Public Domain Library (ChoralWiki), https://www.cpdl.org/wiki/index.php/Ave_Maria,_WAB_6_(Anton_Bruckner).",
+      "notice": "Edition by John Christensen, Choral Public Domain Library (CPDL #55873). Distributed under the CPDL License: it may be copied, performed, recorded and modified, provided this notice stays with it and any derived edition is released under the same licence. https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL",
+      "category": "Choral and sacred"
+    },
+    {
+      "id": "cpdl-80510",
+      "title": "Locus iste",
+      "composer": "Anton Bruckner",
+      "collection": "Choral and sacred",
+      "voicing": "Choral (4 voices)",
+      "voices": 4,
+      "parts": [
+        "SOPRANO",
+        "ALTO",
+        "TENOR",
+        "BASS"
+      ],
+      "file": "scores/cpdl-80510.mxl",
+      "license": "CPDL License",
+      "licenseUrl": "https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL",
+      "source": "https://www.cpdl.org/wiki/index.php/Locus_iste_(Anton_Bruckner)",
+      "editor": "Maia McCormick",
+      "cpdl": "80510",
+      "credit": "Maia McCormick. Locus iste (Bruckner), CPDL #80510. Choral Public Domain Library (ChoralWiki), https://www.cpdl.org/wiki/index.php/Locus_iste_(Anton_Bruckner).",
+      "notice": "Edition by Maia McCormick, Choral Public Domain Library (CPDL #80510). Distributed under the CPDL License: it may be copied, performed, recorded and modified, provided this notice stays with it and any derived edition is released under the same licence. https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL",
+      "category": "Choral and sacred"
+    },
+    {
+      "id": "cpdl-23942",
+      "title": "Os justi meditabitur, WAB 30",
+      "composer": "Anton Bruckner",
+      "collection": "Choral and sacred",
+      "voicing": "Choral",
+      "voices": 1,
+      "parts": [
+        "Sopran",
+        "Alt",
+        "Tenor",
+        "Baß"
+      ],
+      "file": "scores/cpdl-23942.mxl",
+      "license": "CPDL License",
+      "licenseUrl": "https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL",
+      "source": "https://www.cpdl.org/wiki/index.php/Os_justi_meditabitur,_WAB_30_(Anton_Bruckner)",
+      "editor": "Robert Urmann",
+      "cpdl": "23942",
+      "credit": "Robert Urmann. Os justi meditabitur, WAB 30 (Bruckner), CPDL #23942. Choral Public Domain Library (ChoralWiki), https://www.cpdl.org/wiki/index.php/Os_justi_meditabitur,_WAB_30_(Anton_Bruckner).",
+      "notice": "Edition by Robert Urmann, Choral Public Domain Library (CPDL #23942). Distributed under the CPDL License: it may be copied, performed, recorded and modified, provided this notice stays with it and any derived edition is released under the same licence. https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL",
+      "category": "Choral and sacred"
+    },
+    {
+      "id": "sq8885439",
+      "title": "String Quartet No.12, Op.96 (“American”)",
+      "composer": "Antonín Dvořák",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq8885439.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/5108664",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn/String_Quartet_No.12%2C_Op.96_(%E2%80%9CAmerican%E2%80%9D)",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5108664",
+      "category": "String quartets"
+    },
+    {
+      "id": "sq23996920",
+      "title": "String Quartet No.14, Op.105",
+      "composer": "Antonín Dvořák",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq23996920.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/7369798",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn/String_Quartet_No.14%2C_Op.105",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/7369798",
+      "category": "String quartets"
     },
     {
       "id": "lc5925129",
@@ -35,7 +251,48 @@
       "license": "CC0-1.0",
       "source": "https://imslp.org/wiki/Contes_divins_(Holm%C3%A8s%2C_Augusta_Mary_Anne",
       "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Holmès,_Augusta_Mary_Anne/Contes_divins/4_La_Belle_Madeleine/lc5925129.mscx",
-      "credit": "Transcribed by Eloge from IMSLP #588109. Source: https://imslp.org/wiki/Contes_divins_(Holm%C3%A8s%2C_Augusta_Mary_Anne)"
+      "credit": "Transcribed by Eloge from IMSLP #588109. Source: https://imslp.org/wiki/Contes_divins_(Holm%C3%A8s%2C_Augusta_Mary_Anne)",
+      "category": "Art songs"
+    },
+    {
+      "id": "sq7483523",
+      "title": "String Quartet No.1",
+      "composer": "Bedřich Smetana",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq7483523.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/5108519",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Smetana%2C_Bed%C5%99ich/String_Quartet_No.1",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5108519",
+      "category": "String quartets"
+    },
+    {
+      "id": "sq8741475",
+      "title": "String Quartet No.2, Op.17 (Sz.67)",
+      "composer": "Béla Bartók",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq8741475.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/5530433",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Bart%C3%B3k%2C_B%C3%A9la/String_Quartet_No.2%2C_Op.17_(Sz.67)",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5530433",
+      "category": "String quartets"
     },
     {
       "id": "lc6681689",
@@ -59,7 +316,509 @@
       "license": "CC0-1.0",
       "source": "https://imslp.org/wiki/Special:ReverseLookup/584347",
       "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Parratt,_Walter/Choral_Songs_in_Honour_of_Her_Majesty_Queen_Victoria/02_Out_in_the_windy_West/lc6681689.mscx",
-      "credit": "Series editor of original edition: Sir Walter Parratt. Transcribed from IMSLP #584347. Source: https://imslp.org/wiki/Special:ReverseLookup/584347"
+      "credit": "Series editor of original edition: Sir Walter Parratt. Transcribed from IMSLP #584347. Source: https://imslp.org/wiki/Special:ReverseLookup/584347",
+      "category": "Choral and sacred"
+    },
+    {
+      "id": "lc5000397",
+      "title": "Liebst du um Schönheit",
+      "composer": "Clara Schumann",
+      "lyricist": "Friedrich Rückert",
+      "collection": "Lieder, Op.12",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Voice",
+        "Piano"
+      ],
+      "file": "scores/lc5000397.mxl",
+      "license": "CC0-1.0",
+      "source": "https://github.com/OpenScore/Lieder/blob/main/scores/Schumann%2C_Clara/Lieder%2C_Op.12/04_Liebst_du_um_Sch%C3%B6nheit",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Schumann%2C_Clara/Lieder%2C_Op.12/04_Liebst_du_um_Sch%C3%B6nheit",
+      "credit": "Transcribed by the OpenScore Lieder project from public-domain editions hosted on IMSLP. Source: https://github.com/OpenScore/Lieder/blob/main/scores/Schumann%2C_Clara/Lieder%2C_Op.12/04_Liebst_du_um_Sch%C3%B6nheit",
+      "category": "Art songs"
+    },
+    {
+      "id": "lc4919673",
+      "title": "Lorelei",
+      "composer": "Clara Schumann",
+      "lyricist": "Heinrich Heine",
+      "collection": "Lorelei",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Voice",
+        "Piano"
+      ],
+      "file": "scores/lc4919673.mxl",
+      "license": "CC0-1.0",
+      "source": "https://github.com/OpenScore/Lieder/blob/main/scores/Schumann%2C_Clara/_/Lorelei",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Schumann%2C_Clara/_/Lorelei",
+      "credit": "Transcribed by the OpenScore Lieder project from public-domain editions hosted on IMSLP. Source: https://github.com/OpenScore/Lieder/blob/main/scores/Schumann%2C_Clara/_/Lorelei",
+      "category": "Art songs"
+    },
+    {
+      "id": "lc5060918",
+      "title": "Il pleure dans mon coeur",
+      "composer": "Claude Debussy",
+      "lyricist": "Paul Verlaine",
+      "collection": "Ariettes Oubliées",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Voice",
+        "PIANO"
+      ],
+      "file": "scores/lc5060918.mxl",
+      "license": "CC0-1.0",
+      "source": "https://github.com/OpenScore/Lieder/blob/main/scores/Debussy%2C_Claude/Ariettes_Oubli%C3%A9es/2_Il_pleure_dans_mon_coeur",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Debussy%2C_Claude/Ariettes_Oubli%C3%A9es/2_Il_pleure_dans_mon_coeur",
+      "credit": "Transcribed by the OpenScore Lieder project from public-domain editions hosted on IMSLP. Source: https://github.com/OpenScore/Lieder/blob/main/scores/Debussy%2C_Claude/Ariettes_Oubli%C3%A9es/2_Il_pleure_dans_mon_coeur",
+      "category": "Art songs"
+    },
+    {
+      "id": "lc7086632",
+      "title": "Les cloches",
+      "composer": "Claude Debussy",
+      "lyricist": "Paul Bourget",
+      "collection": "2 Romances",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Chant Voice",
+        "Piano"
+      ],
+      "file": "scores/lc7086632.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/Special:ReverseLookup/47825",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Debussy%2C_Claude/2_Romances/2_Les_cloches",
+      "credit": "Transcribed by Eloge from IMSLP #47825 . Source: https://imslp.org/wiki/Special:ReverseLookup/47825",
+      "category": "Art songs"
+    },
+    {
+      "id": "lc29748596",
+      "title": "Mandoline",
+      "composer": "Claude Debussy",
+      "lyricist": "Paul Verlaine",
+      "collection": "",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Chant",
+        "Piano"
+      ],
+      "file": "scores/lc29748596.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/Special:ReverseLookup/14823",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Debussy%2C_Claude/_/Mandoline",
+      "credit": "Transcribed from the IMSLP file(s) at https://imslp.org/wiki/Special:ReverseLookup/14823",
+      "category": "Art songs"
+    },
+    {
+      "id": "sq8661306",
+      "title": "String Quartet in G minor, Op.10",
+      "composer": "Claude Debussy",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq8661306.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/5108549",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Debussy%2C_Claude/String_Quartet_in_G_minor%2C_Op.10",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5108549",
+      "category": "String quartets"
+    },
+    {
+      "id": "lc5987667",
+      "title": "L’été",
+      "composer": "Cécile Chaminade",
+      "lyricist": "Edouard Guinand",
+      "collection": "L’été",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Voice",
+        "Piano"
+      ],
+      "file": "scores/lc5987667.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/L'été_(Chaminade,_Cécile",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Chaminade%2C_C%C3%A9cile/_/L%E2%80%99%C3%A9t%C3%A9",
+      "credit": "Transcribed by Eloge from IMSLP #140920. Source: https://imslp.org/wiki/L'été_(Chaminade,_Cécile)",
+      "category": "Art songs"
+    },
+    {
+      "id": "lc30190433",
+      "title": "Villanelle",
+      "composer": "Cécile Chaminade",
+      "lyricist": "Édouard Guinand",
+      "collection": "",
+      "voicing": "Solo voice",
+      "voices": 0,
+      "parts": [
+        "Oboe",
+        "Piano"
+      ],
+      "file": "scores/lc30190433.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/Special:ReverseLookup/154079",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Chaminade%2C_C%C3%A9cile/_/Villanelle",
+      "credit": "Transcribed from the IMSLP file(s) at https://imslp.org/wiki/Special:ReverseLookup/154079",
+      "category": "Art songs"
+    },
+    {
+      "id": "cpdl-75436",
+      "title": "Panis angelicus",
+      "composer": "César Franck",
+      "collection": "Choral and sacred",
+      "voicing": "Choral",
+      "voices": 0,
+      "parts": [
+        "MusicXML Part",
+        "MusicXML Part",
+        "MusicXML Part",
+        "MusicXML Part",
+        "MusicXML Part",
+        "MusicXML Part",
+        "MusicXML Part"
+      ],
+      "file": "scores/cpdl-75436.mxl",
+      "license": "CPDL License",
+      "licenseUrl": "https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL",
+      "source": "https://www.cpdl.org/wiki/index.php/Panis_angelicus_(César_Franck)",
+      "editor": "Francesc Pérez Martín",
+      "cpdl": "75436",
+      "credit": "Francesc Pérez Martín. Panis angelicus (Franck), CPDL #75436. Choral Public Domain Library (ChoralWiki), https://www.cpdl.org/wiki/index.php/Panis_angelicus_(César_Franck).",
+      "notice": "Edition by Francesc Pérez Martín, Choral Public Domain Library (CPDL #75436). Distributed under the CPDL License: it may be copied, performed, recorded and modified, provided this notice stays with it and any derived edition is released under the same licence. https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL",
+      "category": "Choral and sacred"
+    },
+    {
+      "id": "sq9631717",
+      "title": "String Quartet No.1, Op.27",
+      "composer": "Edvard Grieg",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq9631717.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/5108691",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Grieg%2C_Edvard/String_Quartet_No.1%2C_Op.27",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5108691",
+      "category": "String quartets"
+    },
+    {
+      "id": "lc6236149",
+      "title": "Like to the Damask Rose",
+      "composer": "Edward Elgar",
+      "lyricist": "Simon Wastell",
+      "collection": "7 Lieder",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Voice",
+        "Piano"
+      ],
+      "file": "scores/lc6236149.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/7_Lieder_(Elgar%2C_Edward",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Elgar%2C_Edward/7_Lieder/1_Like_to_the_Damask_Rose",
+      "credit": "Transcribed by Eloge from IMSLP #556602. Source: https://imslp.org/wiki/7_Lieder_(Elgar%2C_Edward)",
+      "category": "Art songs"
+    },
+    {
+      "id": "sq7362818",
+      "title": "String Quartet, Op.83",
+      "composer": "Edward Elgar",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq7362818.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/5108550",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Elgar%2C_Edward/String_Quartet%2C_Op.83",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5108550",
+      "category": "String quartets"
+    },
+    {
+      "id": "sq7070319",
+      "title": "String Quartet in G minor, Op.14",
+      "composer": "Emilie Mayer",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq7070319.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/5108458",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Mayer%2C_Emilie/String_Quartet_in_G_minor%2C_Op.14",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5108458",
+      "category": "String quartets"
+    },
+    {
+      "id": "sq7555331",
+      "title": "String Quartet in E minor",
+      "composer": "Ethel Smyth",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq7555331.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/5108481",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Smyth%2C_Ethel/String_Quartet_in_E_minor",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5108481",
+      "category": "String quartets"
+    },
+    {
+      "id": "lc6022185",
+      "title": "Italien",
+      "composer": "Fanny (Mendelssohn) Hensel",
+      "lyricist": "Franz Grillparzer",
+      "collection": "3 Songs",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Singstimme Voice",
+        "Pianoforte"
+      ],
+      "file": "scores/lc6022185.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/3_Songs_(Hensel,_Fanny",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Hensel%2C_Fanny/3_Songs/2_Italien",
+      "credit": "Originally published as Felix Mendelssohn Op.8, No.3. Transcribed by Justin M. Bornais from IMSLP #28641. Source: https://imslp.org/wiki/3_Songs_(Hensel,_Fanny)",
+      "category": "Art songs"
+    },
+    {
+      "id": "lc5987757",
+      "title": "Nachtwanderer",
+      "composer": "Fanny (Mendelssohn) Hensel",
+      "lyricist": "Joseph Freiherr von Eichendorff",
+      "collection": "6 Lieder, Op.7",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Gesang Voice",
+        "Piano"
+      ],
+      "file": "scores/lc5987757.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/6_Lieder,_Op.7_(Hensel,_Fanny",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Hensel%2C_Fanny/6_Lieder%2C_Op.7/1_Nachtwanderer",
+      "credit": "Transcribed by pental from IMSLP #558449. Source: https://imslp.org/wiki/6_Lieder,_Op.7_(Hensel,_Fanny)",
+      "category": "Art songs"
+    },
+    {
+      "id": "sq7577795",
+      "title": "String Quartet in E-flat major, Op. 277",
+      "composer": "Fanny (Mendelssohn) Hensel",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq7577795.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/5150345",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Hensel%2C_Fanny_(Mendelssohn)/String_Quartet_in_E-flat_major%2C_Op._277",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5150345",
+      "category": "String quartets"
+    },
+    {
+      "id": "lc6997609",
+      "title": "Altdeutsches Frühlingslied, MWV K 127",
+      "composer": "Felix Mendelssohn",
+      "lyricist": "Friedrich von Spee",
+      "collection": "6 Gesänge, Op.86",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Voice",
+        "Piano"
+      ],
+      "file": "scores/lc6997609.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/Special:ReverseLookup/09356",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Mendelssohn%2C_Felix/6_Ges%C3%A4nge%2C_Op.86/6_Altdeutsches_Fr%C3%BChlingslied%2C_MWV_K_127",
+      "credit": "Transcribed by flutemouse from IMSLP #09356. Source: https://imslp.org/wiki/Special:ReverseLookup/09356",
+      "category": "Art songs"
+    },
+    {
+      "id": "cpdl-20280",
+      "title": "Elias 28: Lift thine eyes / Hebe deine Augen",
+      "composer": "Felix Mendelssohn",
+      "collection": "Choral and sacred",
+      "voicing": "Choral (3 voices)",
+      "voices": 3,
+      "parts": [
+        "Soprano I",
+        "Soprano II",
+        "Alto"
+      ],
+      "file": "scores/cpdl-20280.mxl",
+      "license": "CPDL License",
+      "licenseUrl": "https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL",
+      "source": "https://www.cpdl.org/wiki/index.php/Elias_28_Lift_thine_eyes_/_Hebe_deine_Augen_(Felix_Mendelssohn)",
+      "editor": "Robert Urmann",
+      "cpdl": "20280",
+      "credit": "Robert Urmann. Elias 28 Lift thine eyes / Hebe deine Augen (Mendelssohn), CPDL #20280. Choral Public Domain Library (ChoralWiki), https://www.cpdl.org/wiki/index.php/Elias_28_Lift_thine_eyes_/_Hebe_deine_Augen_(Felix_Mendelssohn).",
+      "notice": "Edition by Robert Urmann, Choral Public Domain Library (CPDL #20280). Distributed under the CPDL License: it may be copied, performed, recorded and modified, provided this notice stays with it and any derived edition is released under the same licence. https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL",
+      "category": "Choral and sacred"
+    },
+    {
+      "id": "cpdl-21523",
+      "title": "Hark! the herald angels sing",
+      "composer": "Felix Mendelssohn",
+      "collection": "Hymns and Christmas",
+      "voicing": "Choral",
+      "voices": 0,
+      "parts": [
+        "Piano"
+      ],
+      "file": "scores/cpdl-21523.mxl",
+      "license": "Public Domain (as marked by the editor)",
+      "source": "https://www.cpdl.org/wiki/index.php/Hark!_the_herald_angels_sing_(Felix_Mendelssohn)",
+      "editor": "Micah Brandhandler",
+      "cpdl": "21523",
+      "credit": "Micah Brandhandler. Hark! The herald angels sing (Mendelssohn), CPDL #21523. Choral Public Domain Library (ChoralWiki), https://www.cpdl.org/wiki/index.php/Hark!_the_herald_angels_sing_(Felix_Mendelssohn).",
+      "notice": "Edition by Micah Brandhandler, Choral Public Domain Library (CPDL #21523), marked Public Domain by the editor.",
+      "category": "Hymns and Christmas"
+    },
+    {
+      "id": "cpdl-28873",
+      "title": "Hear my prayer / O for the wings of a dove",
+      "composer": "Felix Mendelssohn",
+      "collection": "Choral and sacred",
+      "voicing": "Choral (4 voices)",
+      "voices": 4,
+      "parts": [
+        "Solo",
+        "Soprano",
+        "Alto",
+        "Tenor",
+        "Bass",
+        "Organ"
+      ],
+      "file": "scores/cpdl-28873.mxl",
+      "license": "CPDL License",
+      "licenseUrl": "https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL",
+      "source": "https://www.cpdl.org/wiki/index.php/Hear_my_prayer/O_for_the_wings_of_a_dove_(Felix_Mendelssohn)",
+      "editor": "James Gibb",
+      "cpdl": "28873",
+      "credit": "James Gibb. Hear my prayer / O for the wings of a dove (Mendelssohn), CPDL #28873. Choral Public Domain Library (ChoralWiki), https://www.cpdl.org/wiki/index.php/Hear_my_prayer/O_for_the_wings_of_a_dove_(Felix_Mendelssohn).",
+      "notice": "Edition by James Gibb, Choral Public Domain Library (CPDL #28873). Distributed under the CPDL License: it may be copied, performed, recorded and modified, provided this notice stays with it and any derived edition is released under the same licence. https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL",
+      "category": "Choral and sacred"
+    },
+    {
+      "id": "sq7224846",
+      "title": "String Quartet No.1, Op.12",
+      "composer": "Felix Mendelssohn",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq7224846.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/5108546",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Mendelssohn%2C_Felix/String_Quartet_No.1%2C_Op.12",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5108546",
+      "category": "String quartets"
+    },
+    {
+      "id": "sq8885571",
+      "title": "String Quartet No.2, Op.13",
+      "composer": "Felix Mendelssohn",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq8885571.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/5108547",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Mendelssohn%2C_Felix/String_Quartet_No.2%2C_Op.13",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5108547",
+      "category": "String quartets"
+    },
+    {
+      "id": "sq25717423",
+      "title": "String Quartet No.3, Op.44 No.1",
+      "composer": "Felix Mendelssohn",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq25717423.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/13142266",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Mendelssohn%2C_Felix/String_Quartet_No.3%2C_Op.44_No.1",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/13142266",
+      "category": "String quartets"
+    },
+    {
+      "id": "cpdl-70077",
+      "title": "Abide with me",
+      "composer": "Francis Duckworth",
+      "collection": "Hymns and Christmas",
+      "voicing": "Vocal duet",
+      "voices": 2,
+      "parts": [
+        "SOPRANO ALTO",
+        "TENOR BASS"
+      ],
+      "file": "scores/cpdl-70077.mxl",
+      "license": "Public Domain (as marked by the editor)",
+      "source": "https://www.cpdl.org/wiki/index.php/Abide_with_me_(Francis_Duckworth)",
+      "editor": "Douglas Walczak",
+      "cpdl": "70077",
+      "credit": "Douglas Walczak. Abide with me (Duckworth), CPDL #70077. Choral Public Domain Library (ChoralWiki), https://www.cpdl.org/wiki/index.php/Abide_with_me_(Francis_Duckworth).",
+      "notice": "Edition by Douglas Walczak, Choral Public Domain Library (CPDL #70077), marked Public Domain by the editor.",
+      "category": "Hymns and Christmas"
     },
     {
       "id": "lc6474919",
@@ -77,7 +836,221 @@
       "license": "CC0-1.0",
       "source": "https://imslp.org/wiki/Special:ReverseLookup/225772",
       "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Bridge,_Frank/_/Come_to_Me_in_my_Dreams,_H.71/lc6474919.mscx",
-      "credit": "Transcribed by markpearse from IMSLP #225772 . Source: https://imslp.org/wiki/Special:ReverseLookup/225772"
+      "credit": "Transcribed by markpearse from IMSLP #225772 . Source: https://imslp.org/wiki/Special:ReverseLookup/225772",
+      "category": "Art songs"
+    },
+    {
+      "id": "lc6180725",
+      "title": "An die Musik, D.547",
+      "composer": "Franz Schubert",
+      "lyricist": "Franz von Schober",
+      "collection": "An die Musik",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Voice",
+        "Piano"
+      ],
+      "file": "scores/lc6180725.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/An_die_Musik,_D.547_(Schubert,_Franz",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Schubert%2C_Franz/_/An_die_Musik%2C_D.547",
+      "credit": "Transcribed by Mark Gotham from IMSLP #364857: holograph manuscript (1817). Source: https://imslp.org/wiki/An_die_Musik,_D.547_(Schubert,_Franz)",
+      "category": "Art songs"
+    },
+    {
+      "id": "cpdl-ave-maria-op52-6",
+      "title": "Ave Maria, Op. 52, No. 6",
+      "composer": "Franz Schubert",
+      "collection": "Choral and sacred",
+      "voicing": "Choral (4 voices)",
+      "voices": 4,
+      "parts": [
+        "Soprano",
+        "Alto",
+        "Tenor",
+        "Bass",
+        "Piano ACC"
+      ],
+      "file": "scores/cpdl-ave-maria-op52-6.mxl",
+      "license": "CPDL License",
+      "licenseUrl": "https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL",
+      "source": "https://www.cpdl.org/wiki/index.php/Ave_Maria,_Op._52,_No._6_(Franz_Schubert)",
+      "editor": "William Chimiak",
+      "credit": "William Chimiak. Ave Maria, Op. 52 No. 6 (Schubert). Choral Public Domain Library (ChoralWiki), https://www.cpdl.org/wiki/index.php/Ave_Maria,_Op._52,_No._6_(Franz_Schubert).",
+      "notice": "Edition by William Chimiak, Choral Public Domain Library (CPDL). Distributed under the CPDL License: it may be copied, performed, recorded and modified, provided this notice stays with it and any derived edition is released under the same licence. https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL",
+      "category": "Choral and sacred"
+    },
+    {
+      "id": "lc29062370",
+      "title": "Der Erlkönig, D.328",
+      "composer": "Franz Schubert",
+      "lyricist": "Johann Wolfgang von Goethe",
+      "collection": "",
+      "voicing": "Solo voice",
+      "voices": 0,
+      "parts": [
+        "Clarinet in C",
+        "Piano"
+      ],
+      "file": "scores/lc29062370.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/Special:ReverseLookup/15041",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Schubert%2C_Franz/_/Der_Erlk%C3%B6nig%2C_D.328",
+      "credit": "Transcribed from the IMSLP file(s) at https://imslp.org/wiki/Special:ReverseLookup/15041",
+      "category": "Art songs"
+    },
+    {
+      "id": "lc5014023",
+      "title": "Der Leiermann (Spätere Fassung)",
+      "composer": "Franz Schubert",
+      "lyricist": "Wilhelm Müller",
+      "collection": "Winterreise, D.911",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Singstimme Voice",
+        "Pianoforte"
+      ],
+      "file": "scores/lc5014023.mxl",
+      "license": "CC0-1.0",
+      "source": "http://imslp.org/wiki/Winterreise,_D.911_(Schubert,_Franz",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Schubert%2C_Franz/Winterreise%2C_D.911/24_Der_Leiermann_(Sp%C3%A4tere_Fassung)",
+      "credit": "Transcribed from IMSLP #60822. Source: http://imslp.org/wiki/Winterreise,_D.911_(Schubert,_Franz)",
+      "category": "Art songs"
+    },
+    {
+      "id": "lc5016466",
+      "title": "Der Lindenbaum",
+      "composer": "Franz Schubert",
+      "lyricist": "Wilhelm Müller",
+      "collection": "Winterreise, D.911",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Singstimme",
+        "Pianoforte"
+      ],
+      "file": "scores/lc5016466.mxl",
+      "license": "CC0-1.0",
+      "source": "https://github.com/OpenScore/Lieder/blob/main/scores/Schubert%2C_Franz/Winterreise%2C_D.911/05_Der_Lindenbaum",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Schubert%2C_Franz/Winterreise%2C_D.911/05_Der_Lindenbaum",
+      "credit": "Transcribed by the OpenScore Lieder project from public-domain editions hosted on IMSLP. Source: https://github.com/OpenScore/Lieder/blob/main/scores/Schubert%2C_Franz/Winterreise%2C_D.911/05_Der_Lindenbaum",
+      "category": "Art songs"
+    },
+    {
+      "id": "lc6900961",
+      "title": "Die Forelle, Op.32, D550d",
+      "composer": "Franz Schubert",
+      "lyricist": "Christian Friedrich Daniel Schubart",
+      "collection": "\"Die Forelle\"",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Singstimme Voice",
+        "Pianoforte"
+      ],
+      "file": "scores/lc6900961.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/Special:ReverseLookup/10602",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Schubert%2C_Franz/_/Die_Forelle%2C_Op.32%2C_D550d",
+      "credit": "Transcribed by mooing from IMSLP #10602 Source: https://imslp.org/wiki/Special:ReverseLookup/10602",
+      "category": "Art songs"
+    },
+    {
+      "id": "lc4919879",
+      "title": "Du bist die Ruh",
+      "composer": "Franz Schubert",
+      "lyricist": "Friedrich Rückert",
+      "collection": "Op.59",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Voice",
+        "Piano"
+      ],
+      "file": "scores/lc4919879.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/Special:ReverseLookup/61112",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Schubert%2C_Franz/Op.59/3_Du_bist_die_Ruh",
+      "credit": "Transcribed by DanielR from IMSLP #61112. Source: https://imslp.org/wiki/Special:ReverseLookup/61112",
+      "category": "Art songs"
+    },
+    {
+      "id": "lc6389103",
+      "title": "Ellens Gesang III, D.839 (Ave Maria)",
+      "composer": "Franz Schubert",
+      "lyricist": "Sir Walter Scott",
+      "collection": "Op.52",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Singstimme Voice",
+        "Pianoforte"
+      ],
+      "file": "scores/lc6389103.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/Ave_Maria,_D.839_(Schubert,_Franz",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Schubert%2C_Franz/Op.52/6_Ellens_Gesang_III%2C_D.839_(Ave_Maria)",
+      "credit": "Transcribed by Mark Gotham from IMSLP #16400. Source: https://imslp.org/wiki/Ave_Maria,_D.839_(Schubert,_Franz)",
+      "category": "Art songs"
+    },
+    {
+      "id": "lc7111114",
+      "title": "Gretchen am Spinnrade, D.118",
+      "composer": "Franz Schubert",
+      "lyricist": "Johann Wolfgang von Goethe",
+      "collection": "Gretchen am Spinnrade, Op.2, D.118",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Singstimme Voice",
+        "Pianoforte"
+      ],
+      "file": "scores/lc7111114.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/Special:ReverseLookup/13971",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Schubert%2C_Franz/_/Gretchen_am_Spinnrade%2C_D.118",
+      "credit": "Transcribed by bradleykunda from IMSLP #13971. Source: https://imslp.org/wiki/Special:ReverseLookup/13971",
+      "category": "Art songs"
+    },
+    {
+      "id": "lc5015378",
+      "title": "Gute Nacht",
+      "composer": "Franz Schubert",
+      "lyricist": "Wilhelm Müller",
+      "collection": "Winterreise, D.911",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Singstimme",
+        "Pianoforte"
+      ],
+      "file": "scores/lc5015378.mxl",
+      "license": "CC0-1.0",
+      "source": "http://imslp.org/wiki/Winterreise,_D.911_(Schubert,_Franz",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Schubert%2C_Franz/Winterreise%2C_D.911/01_Gute_Nacht",
+      "credit": "Transcribed by pental from IMSLP #60822. Source: http://imslp.org/wiki/Winterreise,_D.911_(Schubert,_Franz)",
+      "category": "Art songs"
+    },
+    {
+      "id": "lc30321236",
+      "title": "Heidenröslein, D.257",
+      "composer": "Franz Schubert",
+      "lyricist": "Johann Wolfgang von Goethe",
+      "collection": "Op.3",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Singstimme",
+        "Pianoforte"
+      ],
+      "file": "scores/lc30321236.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/Special:ReverseLookup/09270",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Schubert%2C_Franz/Op.3/3_Heidenr%C3%B6slein%2C_D.257",
+      "credit": "Transcribed from the IMSLP file(s) at https://imslp.org/wiki/Special:ReverseLookup/09270",
+      "category": "Art songs"
     },
     {
       "id": "lc7071193",
@@ -95,7 +1068,424 @@
       "license": "CC0-1.0",
       "source": "https://imslp.org/wiki/Special:ReverseLookup/14336",
       "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Schubert,_Franz/_/Liebesrausch,_D.179/lc7071193.mscx",
-      "credit": "Transcribed by DanielR from IMSLP #14336. Source: https://imslp.org/wiki/Special:ReverseLookup/14336"
+      "credit": "Transcribed by DanielR from IMSLP #14336. Source: https://imslp.org/wiki/Special:ReverseLookup/14336",
+      "category": "Art songs"
+    },
+    {
+      "id": "sq29218964",
+      "title": "String Quartet in A minor, D.804, No.13",
+      "composer": "Franz Schubert",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq29218964.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/13145872",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Schubert%2C_Franz/String_Quartet_in_A_minor%2C_D.804%2C_No.13",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/13145872",
+      "category": "String quartets"
+    },
+    {
+      "id": "sq7397765",
+      "title": "String Quartet in D minor, D.810, No.14 (“Death and the Maiden”)",
+      "composer": "Franz Schubert",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq7397765.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/5108909",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Schubert%2C_Franz/String_Quartet_in_D_minor%2C_D.810%2C_No.14_(%E2%80%9CDeath_and_the_Maiden%E2%80%9D)",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5108909",
+      "category": "String quartets"
+    },
+    {
+      "id": "sq17329942",
+      "title": "String Quartet in G major, D.887, No.15",
+      "composer": "Franz Schubert",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq17329942.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/5108910",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Schubert%2C_Franz/String_Quartet_in_G_major%2C_D.887%2C_No.15",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5108910",
+      "category": "String quartets"
+    },
+    {
+      "id": "lc5004835",
+      "title": "Ständchen",
+      "composer": "Franz Schubert",
+      "lyricist": "Ludwig Rellstab",
+      "collection": "Schwanengesang",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Voice",
+        "Piano"
+      ],
+      "file": "scores/lc5004835.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/Schwanengesang,_D.957_(Schubert,_Franz",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Schubert%2C_Franz/Schwanengesang%2C_D.957/04_St%C3%A4ndchen",
+      "credit": "Transcribed by pental from IMSLP #60828. Source: https://imslp.org/wiki/Schwanengesang,_D.957_(Schubert,_Franz)",
+      "category": "Art songs"
+    },
+    {
+      "id": "lc4982535",
+      "title": "Wohin",
+      "composer": "Franz Schubert",
+      "collection": "Die schöne Müllerin",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Singstimme",
+        "Piano",
+        "Pianoforte"
+      ],
+      "file": "scores/lc4982535.mxl",
+      "license": "CC0-1.0",
+      "source": "https://github.com/OpenScore/Lieder/blob/main/scores/Schubert%2C_Franz/Die_sch%C3%B6ne_M%C3%BCllerin%2C_D.795/02_Wohin",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Schubert%2C_Franz/Die_sch%C3%B6ne_M%C3%BCllerin%2C_D.795/02_Wohin",
+      "credit": "Transcribed by the OpenScore Lieder project from public-domain editions hosted on IMSLP. Source: https://github.com/OpenScore/Lieder/blob/main/scores/Schubert%2C_Franz/Die_sch%C3%B6ne_M%C3%BCllerin%2C_D.795/02_Wohin",
+      "category": "Art songs"
+    },
+    {
+      "id": "cpdl-ws-pegomyhe",
+      "title": "Peg o' My Heart",
+      "composer": "Fred Fisher",
+      "lyricist": "Alfred Bryan",
+      "collection": "Barbershop",
+      "voicing": "TTBB",
+      "voices": 4,
+      "style": "barbershop",
+      "file": "scores/cpdl-ws-pegomyhe.mxl",
+      "license": "CPDL",
+      "source": "https://www.cpdl.org/wiki/index.php/Peg_o%27_my_heart_(Alfred_Bryan_Fisher)",
+      "credit": "Edition by Rafael Ornes from the Choral Public Domain Library (CPDL): https://www.cpdl.org/wiki/index.php/Peg_o%27_my_heart_(Alfred_Bryan_Fisher). Released under the CPDL License (https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL); file unmodified.",
+      "category": "Barbershop"
+    },
+    {
+      "id": "lc6810863",
+      "title": "Après un rêve",
+      "composer": "Gabriel Fauré",
+      "lyricist": "Romain Bussine",
+      "collection": "Trois mélodies, Op.7",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Voice",
+        "Piano"
+      ],
+      "file": "scores/lc6810863.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/Special:ReverseLookup/24047",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Faur%C3%A9%2C_Gabriel/3_Songs%2C_Op.7/1_Apr%C3%A8s_un_r%C3%AAve",
+      "credit": "Transcribed by ashmoggs from IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047",
+      "category": "Art songs"
+    },
+    {
+      "id": "lc29989154",
+      "title": "Les roses d’Ispahan",
+      "composer": "Gabriel Fauré",
+      "lyricist": "Leconte de Lisle",
+      "collection": "Op.39",
+      "voicing": "Solo voice",
+      "voices": 0,
+      "parts": [
+        "Clarinet in C",
+        "Piano"
+      ],
+      "file": "scores/lc29989154.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/Special:ReverseLookup/24117",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Faur%C3%A9%2C_Gabriel/Op.39/4_Les_roses_d%E2%80%99Ispahan",
+      "credit": "Transcribed from the IMSLP file(s) at https://imslp.org/wiki/Special:ReverseLookup/24117",
+      "category": "Art songs"
+    },
+    {
+      "id": "lc30299786",
+      "title": "Lydia",
+      "composer": "Gabriel Fauré",
+      "lyricist": "Leconte de Lisle",
+      "collection": "Op.4",
+      "voicing": "Solo voice",
+      "voices": 0,
+      "parts": [
+        "Flute",
+        "Piano"
+      ],
+      "file": "scores/lc30299786.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/Special:ReverseLookup/24045",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Faur%C3%A9%2C_Gabriel/Op.4/2_Lydia",
+      "credit": "Transcribed from the IMSLP file(s) at https://imslp.org/wiki/Special:ReverseLookup/24045",
+      "category": "Art songs"
+    },
+    {
+      "id": "sq7358708",
+      "title": "String Quartet, Op.121",
+      "composer": "Gabriel Fauré",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq7358708.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/5108666",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Faur%C3%A9%2C_Gabriel/String_Quartet%2C_Op.121",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5108666",
+      "category": "String quartets"
+    },
+    {
+      "id": "lc6898141",
+      "title": "Sérénade",
+      "composer": "Georges Bizet",
+      "lyricist": "Michel Carré",
+      "collection": "20 Mélodies, Op.21",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Chant Voice",
+        "Piano"
+      ],
+      "file": "scores/lc6898141.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/Special:ReverseLookup/342985",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Bizet%2C_Georges/20_M%C3%A9lodies%2C_Op.21/10_S%C3%A9r%C3%A9nade",
+      "credit": "Transcribed by markpearse from IMSLP #342985. Source: https://imslp.org/wiki/Special:ReverseLookup/342985",
+      "category": "Art songs"
+    },
+    {
+      "id": "cpdl-21739",
+      "title": "Sicut cervus",
+      "composer": "Giovanni Pierluigi da Palestrina",
+      "collection": "Choral and sacred",
+      "voicing": "Choral (4 voices)",
+      "voices": 4,
+      "parts": [
+        "CANTUS [Alto]",
+        "ALTUS [Tenor]",
+        "TENOR [Baritone]",
+        "BASSUS [Bass]"
+      ],
+      "file": "scores/cpdl-21739.mxl",
+      "license": "Public Domain (as marked by the editor)",
+      "source": "https://www.cpdl.org/wiki/index.php/Sicut_cervus_(Giovanni_Pierluigi_da_Palestrina)",
+      "editor": "Lewis Jones",
+      "cpdl": "21739",
+      "credit": "Lewis Jones. Sicut cervus (Palestrina), CPDL #21739. Choral Public Domain Library (ChoralWiki), https://www.cpdl.org/wiki/index.php/Sicut_cervus_(Giovanni_Pierluigi_da_Palestrina).",
+      "notice": "Edition by Lewis Jones, Choral Public Domain Library (CPDL #21739), marked Public Domain by the editor.",
+      "category": "Choral and sacred"
+    },
+    {
+      "id": "cpdl-00886",
+      "title": "Va pensiero (Chorus of the Hebrew Slaves)",
+      "composer": "Giuseppe Verdi",
+      "collection": "Choral and sacred",
+      "voicing": "Choral (4 voices)",
+      "voices": 4,
+      "parts": [
+        "Soprano",
+        "Alto",
+        "Tenor",
+        "Bass",
+        "MusicXML Part"
+      ],
+      "file": "scores/cpdl-00886.mxl",
+      "license": "CPDL License",
+      "licenseUrl": "https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL",
+      "source": "https://www.cpdl.org/wiki/index.php/Va_pensiero_(Chorus_of_the_Hebrew_Slaves)_(Giuseppe_Verdi)",
+      "editor": "Pawel Jura",
+      "cpdl": "00886",
+      "credit": "Pawel Jura. Va pensiero (Verdi), CPDL #00886. Choral Public Domain Library (ChoralWiki), https://www.cpdl.org/wiki/index.php/Va_pensiero_(Chorus_of_the_Hebrew_Slaves)_(Giuseppe_Verdi).",
+      "notice": "Edition by Pawel Jura, Choral Public Domain Library (CPDL #00886). Distributed under the CPDL License: it may be copied, performed, recorded and modified, provided this notice stays with it and any derived edition is released under the same licence. https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL",
+      "category": "Choral and sacred"
+    },
+    {
+      "id": "cpdl-77567",
+      "title": "Miserere mei",
+      "composer": "Gregorio Allegri",
+      "collection": "Choral and sacred",
+      "voicing": "Choral (10 voices)",
+      "voices": 10,
+      "parts": [
+        "Cantus",
+        "Altus",
+        "Tenor primus",
+        "Tenor secundus",
+        "Bassus",
+        "Cantus 1",
+        "Cantus 2",
+        "Altus",
+        "Tenor",
+        "Cantor"
+      ],
+      "file": "scores/cpdl-77567.mxl",
+      "license": "CPDL License",
+      "licenseUrl": "https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL",
+      "source": "https://www.cpdl.org/wiki/index.php/Miserere_mei_(Gregorio_Allegri)",
+      "editor": "Gerd Eichler",
+      "cpdl": "77567",
+      "credit": "Gerd Eichler. Miserere mei (Allegri), CPDL #77567. Choral Public Domain Library (ChoralWiki), https://www.cpdl.org/wiki/index.php/Miserere_mei_(Gregorio_Allegri).",
+      "notice": "Edition by Gerd Eichler, Choral Public Domain Library (CPDL #77567). Distributed under the CPDL License: it may be copied, performed, recorded and modified, provided this notice stays with it and any derived edition is released under the same licence. https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL",
+      "category": "Choral and sacred"
+    },
+    {
+      "id": "cpdl-50634",
+      "title": "In the bleak midwinter",
+      "composer": "Gustav Holst",
+      "collection": "Hymns and Christmas",
+      "voicing": "Vocal duet",
+      "voices": 2,
+      "parts": [
+        "SOPRANO ALTO",
+        "TENOR BASS"
+      ],
+      "file": "scores/cpdl-50634.mxl",
+      "license": "CPDL License",
+      "licenseUrl": "https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL",
+      "source": "https://www.cpdl.org/wiki/index.php/In_the_bleak_midwinter_(Gustav_Holst)",
+      "editor": "Francis Melville",
+      "cpdl": "50634",
+      "credit": "Francis Melville. In the bleak midwinter (Holst), CPDL #50634. Choral Public Domain Library (ChoralWiki), https://www.cpdl.org/wiki/index.php/In_the_bleak_midwinter_(Gustav_Holst).",
+      "notice": "Edition by Francis Melville, Choral Public Domain Library (CPDL #50634). Distributed under the CPDL License: it may be copied, performed, recorded and modified, provided this notice stays with it and any derived edition is released under the same licence. https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL",
+      "category": "Hymns and Christmas"
+    },
+    {
+      "id": "cpdl-ws-heidelbe",
+      "title": "Heidelberg Stein Song",
+      "composer": "Gustav Luders",
+      "collection": "Barbershop",
+      "voicing": "TTBB",
+      "voices": 4,
+      "style": "barbershop",
+      "file": "scores/cpdl-ws-heidelbe.mxl",
+      "license": "Public Domain (as marked by the CPDL editor)",
+      "source": "https://www.cpdl.org/wiki/index.php/Heidelberg_Stein_Song_(Gustav_Luders)",
+      "credit": "Edition by Douglas Walczak (arr. Charles F. Shattuck) from the Choral Public Domain Library (CPDL): https://www.cpdl.org/wiki/index.php/Heidelberg_Stein_Song_(Gustav_Luders). Marked Public Domain by its CPDL editor; file unmodified.",
+      "category": "Barbershop"
+    },
+    {
+      "id": "lc29746856",
+      "title": "Rheinlegendchen",
+      "composer": "Gustav Mahler",
+      "collection": "Des Knaben Wunderhorn",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Voice",
+        "Piano"
+      ],
+      "file": "scores/lc29746856.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/Special:ReverseLookup/46767",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Mahler%2C_Gustav/Des_Knaben_Wunderhorn/7_Rheinlegendchen",
+      "credit": "Transcribed from the IMSLP file(s) at https://imslp.org/wiki/Special:ReverseLookup/46767",
+      "category": "Art songs"
+    },
+    {
+      "id": "cpdl-ws-sweetade",
+      "title": "Sweet Adeline",
+      "composer": "Henry W. Armstrong",
+      "lyricist": "Richard H. Gerard",
+      "collection": "Barbershop",
+      "voicing": "TTBB",
+      "voices": 4,
+      "style": "barbershop",
+      "file": "scores/cpdl-ws-sweetade.mxl",
+      "license": "CPDL",
+      "source": "https://www.cpdl.org/wiki/index.php/Sweet_Adeline_(Henry_W._Armstrong)",
+      "credit": "Edition by Rafael Ornes from the Choral Public Domain Library (CPDL): https://www.cpdl.org/wiki/index.php/Sweet_Adeline_(Henry_W._Armstrong). Released under the CPDL License (https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL); file unmodified.",
+      "category": "Barbershop"
+    },
+    {
+      "id": "sq8812200",
+      "title": "Italian Serenade",
+      "composer": "Hugo Wolf",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq8812200.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/5626515",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Wolf%2C_Hugo/Italian_Serenade",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5626515",
+      "category": "String quartets"
+    },
+    {
+      "id": "lc29477528",
+      "title": "Verborgenheit",
+      "composer": "Hugo Wolf",
+      "lyricist": "Eduard Mörike",
+      "collection": "Mörike-Lieder",
+      "voicing": "Solo voice",
+      "voices": 0,
+      "parts": [
+        "Flute",
+        "Piano"
+      ],
+      "file": "scores/lc29477528.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/Special:ReverseLookup/22864",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Wolf%2C_Hugo/M%C3%B6rike-Lieder/12_Verborgenheit",
+      "credit": "Transcribed from the IMSLP file(s) at https://imslp.org/wiki/Special:ReverseLookup/22864",
+      "category": "Art songs"
+    },
+    {
+      "id": "cpdl-88881",
+      "title": "Jesu, joy of man's desiring, BWV 147.10",
+      "composer": "Johann Sebastian Bach",
+      "collection": "Choral and sacred",
+      "voicing": "Choral (4 voices)",
+      "voices": 4,
+      "parts": [
+        "Soprano",
+        "Alto",
+        "Tenor",
+        "Bass",
+        "Organ",
+        "P7"
+      ],
+      "file": "scores/cpdl-88881.mxl",
+      "license": "CPDL License",
+      "licenseUrl": "https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL",
+      "source": "https://www.cpdl.org/wiki/index.php/Jesu,_joy_of_man's_desiring,_BWV_147.10_(Johann_Sebastian_Bach)",
+      "editor": "James Wetzel",
+      "cpdl": "88881",
+      "credit": "James Wetzel. Jesu, joy of man's desiring, BWV 147.10 (Bach), CPDL #88881. Choral Public Domain Library (ChoralWiki), https://www.cpdl.org/wiki/index.php/Jesu,_joy_of_man's_desiring,_BWV_147.10_(Johann_Sebastian_Bach).",
+      "notice": "Typeset J.D.W., 2026",
+      "category": "Choral and sacred"
     },
     {
       "id": "lc5067692",
@@ -113,7 +1503,27 @@
       "license": "CC0-1.0",
       "source": "http://imslp.org/wiki/6_Songs,_Op.6_(Brahms,_Johannes",
       "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Brahms,_Johannes/6_Songs,_Op.6/2_Der_Frühling/lc5067692.mscx",
-      "credit": "Transcribed from edition IMSLP #97689: http://imslp.org/wiki/6_Songs,_Op.6_(Brahms,_Johannes)"
+      "credit": "Transcribed from edition IMSLP #97689: http://imslp.org/wiki/6_Songs,_Op.6_(Brahms,_Johannes)",
+      "category": "Art songs"
+    },
+    {
+      "id": "lc5153947",
+      "title": "Die Mainacht",
+      "composer": "Johannes Brahms",
+      "lyricist": "Ludwig Christoph Heinrich Hölty",
+      "collection": "4 Songs, Op.43",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Voice",
+        "Piano"
+      ],
+      "file": "scores/lc5153947.mxl",
+      "license": "CC0-1.0",
+      "source": "https://github.com/OpenScore/Lieder/blob/main/scores/Brahms%2C_Johannes/4_Songs%2C_Op.43/2_Die_Mainacht",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Brahms%2C_Johannes/4_Songs%2C_Op.43/2_Die_Mainacht",
+      "credit": "Transcribed by the OpenScore Lieder project from public-domain editions hosted on IMSLP. Source: https://github.com/OpenScore/Lieder/blob/main/scores/Brahms%2C_Johannes/4_Songs%2C_Op.43/2_Die_Mainacht",
+      "category": "Art songs"
     },
     {
       "id": "lc5058636",
@@ -131,154 +1541,124 @@
       "license": "CC0-1.0",
       "source": "http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes",
       "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Brahms,_Johannes/8_Lieder_und_Gesänge,_Op.59/7_Mein_wundes_Herz/lc5058636.mscx",
-      "credit": "Transcribed by fredipi from IMSLP# 81993. Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes)"
+      "credit": "Transcribed by fredipi from IMSLP# 81993. Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes)",
+      "category": "Art songs"
     },
     {
-      "id": "lc6085883",
-      "title": "Gib dich dahin in Gottes Sinn",
-      "composer": "Josephine Lang",
-      "lyricist": "Albert Zeller",
-      "collection": "Lieder des Leids, Op.29",
+      "id": "sq7108150",
+      "title": "String Quartet No.1, Op.51 No.1",
+      "composer": "Johannes Brahms",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq7108150.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/5108531",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Brahms%2C_Johannes/String_Quartet_No.1%2C_Op.51_No.1",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5108531",
+      "category": "String quartets"
+    },
+    {
+      "id": "sq8928855",
+      "title": "String Quartet No.3, Op.67",
+      "composer": "Johannes Brahms",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq8928855.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/5108542",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Brahms%2C_Johannes/String_Quartet_No.3%2C_Op.67",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5108542",
+      "category": "String quartets"
+    },
+    {
+      "id": "lc5153813",
+      "title": "Von ewiger Liebe",
+      "composer": "Johannes Brahms",
+      "lyricist": "Josef Wenzig",
+      "collection": "4 Songs, Op.43",
       "voicing": "Solo voice",
       "voices": 1,
       "parts": [
-        "Singstimme Voice",
+        "Voice",
+        "Piano"
+      ],
+      "file": "scores/lc5153813.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/4_Songs,_Op.43_(Brahms,_Johannes",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Brahms%2C_Johannes/4_Songs%2C_Op.43/1_Von_ewiger_Liebe",
+      "credit": "Transcribed by erinbarnard from IMSLP #79666. Source: https://imslp.org/wiki/4_Songs,_Op.43_(Brahms,_Johannes)",
+      "category": "Art songs"
+    },
+    {
+      "id": "lc5701612",
+      "title": "Wiegenlied",
+      "composer": "Johannes Brahms",
+      "lyricist": "Traditional, from Des Knaben Wunderhorn, and Georg Scherer",
+      "collection": "Fünf Lieder, Op.49",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Singstimme",
         "Pianoforte"
       ],
-      "file": "scores/lc6085883.mxl",
+      "file": "scores/lc5701612.mxl",
       "license": "CC0-1.0",
-      "source": "https://imslp.org/wiki/Lieder_des_Leids,_Op.29_(Lang,_Josephine",
-      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Lang,_Josephine/Lieder_des_Leids,_Op.29/3_Gib_dich_dahin_in_Gottes_Sinn/lc6085883.mscx",
-      "credit": "Transcribed by markpearse from IMSLP #617600. Source: https://imslp.org/wiki/Lieder_des_Leids,_Op.29_(Lang,_Josephine)"
+      "source": "http://imslp.org/wiki/5_Lieder,_Op.49_(Brahms,_Johannes",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Brahms%2C_Johannes/5_Lieder%2C_Op.49/4_Wiegenlied",
+      "credit": "Transcribed from #81909. Source: http://imslp.org/wiki/5_Lieder,_Op.49_(Brahms,_Johannes)",
+      "category": "Art songs"
     },
     {
-      "id": "lc5046362",
-      "title": "Die Wiese",
-      "composer": "Louise Reichardt",
-      "lyricist": "(Aus Herders Volksliedern)",
-      "collection": "Zwölf Gesänge",
-      "voicing": "Solo voice",
-      "voices": 1,
+      "id": "cpdl-20327",
+      "title": "Wiegenlied, WoO 31, No. 11",
+      "composer": "Johannes Brahms",
+      "collection": "Choral and sacred",
+      "voicing": "Choral",
+      "voices": 0,
       "parts": [
-        "Voice",
-        "Piano"
+        "MusicXML Part",
+        "MusicXML Part"
       ],
-      "file": "scores/lc5046362.mxl",
-      "license": "CC0-1.0",
-      "source": "https://github.com/OpenScore/Lieder/blob/main/scores/Reichardt,_Louise/12_Gesänge,_Op.3/07_Die_Wiese/lc5046362.mscx",
-      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Reichardt,_Louise/12_Gesänge,_Op.3/07_Die_Wiese/lc5046362.mscx"
+      "file": "scores/cpdl-20327.mxl",
+      "license": "CPDL License",
+      "licenseUrl": "https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL",
+      "source": "https://www.cpdl.org/wiki/index.php/Wiegenlied,_WoO_31,_No._11_(Johannes_Brahms)",
+      "editor": "Juliane Claudi",
+      "cpdl": "20327",
+      "credit": "Juliane Claudi. Wiegenlied, WoO 31 No. 11 (Brahms), CPDL #20327. Choral Public Domain Library (ChoralWiki), https://www.cpdl.org/wiki/index.php/Wiegenlied,_WoO_31,_No._11_(Johannes_Brahms).",
+      "notice": "Edition by Juliane Claudi, Choral Public Domain Library (CPDL #20327). Distributed under the CPDL License: it may be copied, performed, recorded and modified, provided this notice stays with it and any derived edition is released under the same licence. https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL",
+      "category": "Choral and sacred"
     },
     {
-      "id": "lc6491478",
-      "title": "Das Blümchen Wunderhold",
-      "composer": "Ludwig van Beethoven",
-      "lyricist": "Gottfried August Bürger",
-      "collection": "8 Lieder, Op.52",
-      "voicing": "Solo voice",
-      "voices": 1,
-      "parts": [
-        "Voice",
-        "Piano"
-      ],
-      "file": "scores/lc6491478.mxl",
-      "license": "CC0-1.0",
-      "source": "https://imslp.org/wiki/Special:ReverseLookup/47274",
-      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Beethoven,_Ludwig_van/8_Lieder,_Op.52/8_Das_Blümchen_Wunderhold/lc6491478.mscx",
-      "credit": "Transcribed by pental from IMSLP #47274. Source: https://imslp.org/wiki/Special:ReverseLookup/47274"
-    },
-    {
-      "id": "lc5043594",
-      "title": "Trauer",
-      "composer": "Peter Cornelius",
-      "lyricist": "Peter Cornelius",
-      "collection": "Trauer und Trost, Op.3",
-      "voicing": "Solo voice",
-      "voices": 1,
-      "parts": [
-        "Voice",
-        "Piano"
-      ],
-      "file": "scores/lc5043594.mxl",
-      "license": "CC0-1.0",
-      "source": "http://imslp.org/wiki/Trauer_und_Trost%2C_Op.3_(Cornelius%2C_Peter",
-      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Cornelius,_Peter/Trauer_und_Trost,_Op.3/1_Trauer/lc5043594.mscx",
-      "credit": "Transcribed by ashmoggs from IMSLP# 80679. Source: http://imslp.org/wiki/Trauer_und_Trost%2C_Op.3_(Cornelius%2C_Peter)"
-    },
-    {
-      "id": "lc6604179",
-      "title": "Les langueurs",
-      "composer": "Sophie Gail",
-      "lyricist": "Unknown",
-      "collection": "Les langueurs",
-      "voicing": "Vocal duet",
-      "voices": 2,
-      "parts": [
-        "1er Dessus Voice 1",
-        "2d Dessus Voice 2",
-        "Piano"
-      ],
-      "file": "scores/lc6604179.mxl",
-      "license": "CC0-1.0",
-      "source": "https://imslp.org/wiki/Special:ReverseLookup/173062",
-      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Gail,_Sophie/_/Les_langueurs/lc6604179.mscx",
-      "credit": "Transcribed from IMSLP #173062. Source: https://imslp.org/wiki/Special:ReverseLookup/173062"
-    },
-    {
-      "id": "sq7284122",
-      "title": "String Quartet in D major, Op.64 No.5 “The Lark”",
-      "composer": "Joseph Haydn",
-      "collection": "String quartets",
-      "voicing": "String quartet",
-      "voices": 4,
-      "parts": [
-        "Violin 1",
-        "Violin 2",
-        "Viola",
-        "Violoncello"
-      ],
-      "file": "scores/sq7284122.mxl",
-      "license": "CC0-1.0",
-      "source": "https://musescore.com/openscore-string-quartets/sets/5108566",
-      "corpus": "https://github.com/OpenScore/StringQuartets/tree/main/scores/Haydn%2C_Joseph/String_Quartet_in_D_major%2C_Hob.III63%2C_Op.64_No.5",
-      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5108566"
-    },
-    {
-      "id": "sq8509238",
-      "title": "String Quartet in D major, Op.20 No.4",
-      "composer": "Joseph Haydn",
-      "collection": "String quartets",
-      "voicing": "String quartet",
-      "voices": 4,
-      "parts": [
-        "Violin 1",
-        "Violin 2",
-        "Viola",
-        "Violoncello"
-      ],
-      "file": "scores/sq8509238.mxl",
-      "license": "CC0-1.0",
-      "source": "https://musescore.com/openscore-string-quartets/sets/5178650",
-      "corpus": "https://github.com/OpenScore/StringQuartets/tree/main/scores/Haydn%2C_Joseph/String_Quartet_in_D_major%2C_Hob.III34%2C_Op.20_No.4",
-      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5178650"
-    },
-    {
-      "id": "sq7471661",
-      "title": "String Quartet No.19 in C major, K.465 “Dissonance”",
-      "composer": "Wolfgang Amadeus Mozart",
-      "collection": "String quartets",
-      "voicing": "String quartet",
-      "voices": 4,
-      "parts": [
-        "Violin 1",
-        "Violin 2",
-        "Viola",
-        "Violoncello"
-      ],
-      "file": "scores/sq7471661.mxl",
-      "license": "CC0-1.0",
-      "source": "https://musescore.com/openscore-string-quartets/sets/5108516",
-      "corpus": "https://github.com/OpenScore/StringQuartets/tree/main/scores/Mozart%2C_Wolfgang_Amadeus/String_Quartet_No.19_in_C_major%2C_K.465_%28Op._10%2C_No._6%29",
-      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5108516"
+      "id": "cpdl-21452",
+      "title": "The Star-Spangled Banner",
+      "composer": "John Stafford Smith",
+      "collection": "Patriotic and folk",
+      "voicing": "Choral",
+      "voices": 0,
+      "parts": [],
+      "file": "scores/cpdl-21452.mxl",
+      "license": "Public Domain (as marked by the editor)",
+      "source": "https://www.cpdl.org/wiki/index.php/The_Star-Spangled_Banner_(John_Stafford_Smith)",
+      "editor": "Ashley Etzkorn",
+      "cpdl": "21452",
+      "credit": "Ashley Etzkorn. The Star-Spangled Banner (J. S. Smith), CPDL #21452. Choral Public Domain Library (ChoralWiki), https://www.cpdl.org/wiki/index.php/The_Star-Spangled_Banner_(John_Stafford_Smith).",
+      "notice": "Edition by Ashley Etzkorn, Choral Public Domain Library (CPDL #21452), marked Public Domain by the editor.",
+      "category": "Patriotic and folk"
     },
     {
       "id": "sq8437358",
@@ -297,35 +1677,423 @@
       "license": "CC0-1.0",
       "source": "https://musescore.com/openscore-string-quartets/sets/5108602",
       "corpus": "https://github.com/OpenScore/StringQuartets/tree/main/scores/Saint-Georges%2C_Joseph_Bologne/String_Quartet_in_C_major%2C_Op.1_No.1",
-      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5108602"
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5108602",
+      "category": "String quartets"
     },
     {
-      "id": "cpdl-ws-sweetade",
-      "title": "Sweet Adeline",
-      "composer": "Henry W. Armstrong",
-      "lyricist": "Richard H. Gerard",
-      "collection": "Barbershop",
-      "voicing": "TTBB",
+      "id": "sq20428156",
+      "title": "String Quartet in C major, Hob.III77, Op.76 No.3",
+      "composer": "Joseph Haydn",
+      "collection": "String quartets",
+      "voicing": "String quartet",
       "voices": 4,
-      "style": "barbershop",
-      "file": "scores/cpdl-ws-sweetade.mxl",
-      "license": "CPDL",
-      "source": "https://www.cpdl.org/wiki/index.php/Sweet_Adeline_(Henry_W._Armstrong)",
-      "credit": "Edition by Rafael Ornes from the Choral Public Domain Library (CPDL): https://www.cpdl.org/wiki/index.php/Sweet_Adeline_(Henry_W._Armstrong). Released under the CPDL License (https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL); file unmodified."
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq20428156.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/6403741",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Haydn%2C_Joseph/String_Quartet_in_C_major%2C_Hob.III77%2C_Op.76_No.3",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/6403741",
+      "category": "String quartets"
     },
     {
-      "id": "cpdl-ws-pegomyhe",
-      "title": "Peg o' My Heart",
-      "composer": "Fred Fisher",
-      "lyricist": "Alfred Bryan",
-      "collection": "Barbershop",
-      "voicing": "TTBB",
+      "id": "sq8509238",
+      "title": "String Quartet in D major, Op.20 No.4",
+      "composer": "Joseph Haydn",
+      "collection": "String quartets",
+      "voicing": "String quartet",
       "voices": 4,
-      "style": "barbershop",
-      "file": "scores/cpdl-ws-pegomyhe.mxl",
-      "license": "CPDL",
-      "source": "https://www.cpdl.org/wiki/index.php/Peg_o%27_my_heart_(Alfred_Bryan_Fisher)",
-      "credit": "Edition by Rafael Ornes from the Choral Public Domain Library (CPDL): https://www.cpdl.org/wiki/index.php/Peg_o%27_my_heart_(Alfred_Bryan_Fisher). Released under the CPDL License (https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL); file unmodified."
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq8509238.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/5178650",
+      "corpus": "https://github.com/OpenScore/StringQuartets/tree/main/scores/Haydn%2C_Joseph/String_Quartet_in_D_major%2C_Hob.III34%2C_Op.20_No.4",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5178650",
+      "category": "String quartets"
+    },
+    {
+      "id": "sq7284122",
+      "title": "String Quartet in D major, Op.64 No.5 “The Lark”",
+      "composer": "Joseph Haydn",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq7284122.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/5108566",
+      "corpus": "https://github.com/OpenScore/StringQuartets/tree/main/scores/Haydn%2C_Joseph/String_Quartet_in_D_major%2C_Hob.III63%2C_Op.64_No.5",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5108566",
+      "category": "String quartets"
+    },
+    {
+      "id": "sq12772795",
+      "title": "String Quartet in D minor, Hob.III76, Op.76 No.2",
+      "composer": "Joseph Haydn",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq12772795.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/6403711",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Haydn%2C_Joseph/String_Quartet_in_D_minor%2C_Hob.III76%2C_Op.76_No.2",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/6403711",
+      "category": "String quartets"
+    },
+    {
+      "id": "sq15049456",
+      "title": "String Quartet in G major, Hob.III75, Op.76 No.1",
+      "composer": "Joseph Haydn",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq15049456.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/6403696",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Haydn%2C_Joseph/String_Quartet_in_G_major%2C_Hob.III75%2C_Op.76_No.1",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/6403696",
+      "category": "String quartets"
+    },
+    {
+      "id": "sq10313029",
+      "title": "String Quartet in G minor, Hob.III74, Op.74 No.3 (The Horseman)",
+      "composer": "Joseph Haydn",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq10313029.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/5954407",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Haydn%2C_Joseph/String_Quartet_in_G_minor%2C_Hob.III74%2C_Op.74_No.3_(The_Horseman)",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5954407",
+      "category": "String quartets"
+    },
+    {
+      "id": "lc6472842",
+      "title": "The Mermaid’s Song, Hob.XXVIa25",
+      "composer": "Joseph Haydn",
+      "lyricist": "Anne Hunter",
+      "collection": "10 Canzonets",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Voice",
+        "Piano"
+      ],
+      "file": "scores/lc6472842.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/Special:ReverseLookup/292750",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Haydn%2C_Joseph/10_Canzonets/07_The_Mermaid%E2%80%99s_Song%2C_Hob.XXVIa25",
+      "credit": "Transcribed by markpearse from IMSLP #292750. Source: https://imslp.org/wiki/Special:ReverseLookup/292750",
+      "category": "Art songs"
+    },
+    {
+      "id": "lc6085883",
+      "title": "Gib dich dahin in Gottes Sinn",
+      "composer": "Josephine Lang",
+      "lyricist": "Albert Zeller",
+      "collection": "Lieder des Leids, Op.29",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Singstimme Voice",
+        "Pianoforte"
+      ],
+      "file": "scores/lc6085883.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/Lieder_des_Leids,_Op.29_(Lang,_Josephine",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Lang,_Josephine/Lieder_des_Leids,_Op.29/3_Gib_dich_dahin_in_Gottes_Sinn/lc6085883.mscx",
+      "credit": "Transcribed by markpearse from IMSLP #617600. Source: https://imslp.org/wiki/Lieder_des_Leids,_Op.29_(Lang,_Josephine)",
+      "category": "Art songs"
+    },
+    {
+      "id": "sq13744399",
+      "title": "String Quartet No.1 in D minor",
+      "composer": "Juan Crisóstomo de Arriaga",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq13744399.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/5116346",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Arriaga%2C_Juan_Cris%C3%B3stomo_de/String_Quartet_No.1_in_D_minor",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5116346",
+      "category": "String quartets"
+    },
+    {
+      "id": "sq7158117",
+      "title": "String Quartet No.1 “Kreutzer Sonata”",
+      "composer": "Leoš Janáček",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 5,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello",
+        "Violoncello"
+      ],
+      "file": "scores/sq7158117.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/5108558",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Jan%C3%A1%C4%8Dek%2C_Leo%C5%A1/String_Quartet_No.1_%E2%80%9CKreutzer_Sonata%E2%80%9D",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5108558",
+      "category": "String quartets"
+    },
+    {
+      "id": "lc5854283",
+      "title": "Elle est gravement gaie",
+      "composer": "Lili Boulanger",
+      "lyricist": "Francis Jammes",
+      "collection": "Clairières dans le ciel",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Chant Voice",
+        "Piano"
+      ],
+      "file": "scores/lc5854283.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/Clairières_dans_le_ciel_(Boulanger,_Lili",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Boulanger%2C_Lili/Clairi%C3%A8res_dans_le_ciel/02_Elle_est_gravement_gaie",
+      "credit": "Transcribed by MarkPearse from IMSLP #25057. Source: https://imslp.org/wiki/Clairières_dans_le_ciel_(Boulanger,_Lili)",
+      "category": "Art songs"
+    },
+    {
+      "id": "lc5046362",
+      "title": "Die Wiese",
+      "composer": "Louise Reichardt",
+      "lyricist": "(Aus Herders Volksliedern)",
+      "collection": "Zwölf Gesänge",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Voice",
+        "Piano"
+      ],
+      "file": "scores/lc5046362.mxl",
+      "license": "CC0-1.0",
+      "source": "https://github.com/OpenScore/Lieder/blob/main/scores/Reichardt,_Louise/12_Gesänge,_Op.3/07_Die_Wiese/lc5046362.mscx",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Reichardt,_Louise/12_Gesänge,_Op.3/07_Die_Wiese/lc5046362.mscx",
+      "credit": "Transcribed by the OpenScore Lieder project from public-domain editions hosted on IMSLP. Source: https://github.com/OpenScore/Lieder/blob/main/scores/Reichardt,_Louise/12_Gesänge,_Op.3/07_Die_Wiese/lc5046362.mscx",
+      "category": "Art songs"
+    },
+    {
+      "id": "lc6491478",
+      "title": "Das Blümchen Wunderhold",
+      "composer": "Ludwig van Beethoven",
+      "lyricist": "Gottfried August Bürger",
+      "collection": "8 Lieder, Op.52",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Voice",
+        "Piano"
+      ],
+      "file": "scores/lc6491478.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/Special:ReverseLookup/47274",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Beethoven,_Ludwig_van/8_Lieder,_Op.52/8_Das_Blümchen_Wunderhold/lc6491478.mscx",
+      "credit": "Transcribed by pental from IMSLP #47274. Source: https://imslp.org/wiki/Special:ReverseLookup/47274",
+      "category": "Art songs"
+    },
+    {
+      "id": "sq10502527",
+      "title": "Grosse Fuge in B-flat major, Op.133",
+      "composer": "Ludwig van Beethoven",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq10502527.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/5108656",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Beethoven%2C_Ludwig_van/Grosse_Fuge_in_B-flat_major%2C_Op.133",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5108656",
+      "category": "String quartets"
+    },
+    {
+      "id": "lc6491377",
+      "title": "Mailied",
+      "composer": "Ludwig van Beethoven",
+      "lyricist": "Johann Wolfgang von Goethe",
+      "collection": "8 Lieder, Op.52",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Voice",
+        "Piano"
+      ],
+      "file": "scores/lc6491377.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/Special:ReverseLookup/47274",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Beethoven%2C_Ludwig_van/8_Lieder%2C_Op.52/4_Mailied",
+      "credit": "Transcribed from IMSLP #47274. Source: https://imslp.org/wiki/Special:ReverseLookup/47274",
+      "category": "Art songs"
+    },
+    {
+      "id": "sq8071278",
+      "title": "String Quartet No.1, Op.18 No.1",
+      "composer": "Ludwig van Beethoven",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq8071278.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/5108454",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Beethoven%2C_Ludwig_van/String_Quartet_No.1%2C_Op.18_No.1",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5108454",
+      "category": "String quartets"
+    },
+    {
+      "id": "sq11539384",
+      "title": "String Quartet No.13 in B♭ major, Op.130",
+      "composer": "Ludwig van Beethoven",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq11539384.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/5108658",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Beethoven%2C_Ludwig_van/String_Quartet_No.13_in_B%E2%99%AD_major%2C_Op.130",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5108658",
+      "category": "String quartets"
+    },
+    {
+      "id": "sq20090908",
+      "title": "String Quartet No.14 in C♯ minor, Op.131",
+      "composer": "Ludwig van Beethoven",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq20090908.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/5108659",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Beethoven%2C_Ludwig_van/String_Quartet_No.14_in_C%E2%99%AF_minor%2C_Op.131",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5108659",
+      "category": "String quartets"
+    },
+    {
+      "id": "sq12397213",
+      "title": "String Quartet No.16 in F major, Op.135",
+      "composer": "Ludwig van Beethoven",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq12397213.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/5108661",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Beethoven%2C_Ludwig_van/String_Quartet_No.16_in_F_major%2C_Op.135",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5108661",
+      "category": "String quartets"
+    },
+    {
+      "id": "sq7872392",
+      "title": "String Quartet No.9, Op.59 No.3",
+      "composer": "Ludwig van Beethoven",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq7872392.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/5193359",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Beethoven%2C_Ludwig_van/String_Quartet_No.9%2C_Op.59_No.3",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5193359",
+      "category": "String quartets"
+    },
+    {
+      "id": "sq8482283",
+      "title": "String Quartet in F major",
+      "composer": "Maurice Ravel",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq8482283.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/5108574",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Ravel%2C_Maurice/String_Quartet_in_F_major",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5108574",
+      "category": "String quartets"
     },
     {
       "id": "cpdl-ws-whenyouw",
@@ -339,20 +2107,357 @@
       "file": "scores/cpdl-ws-whenyouw.mxl",
       "license": "CPDL",
       "source": "https://www.cpdl.org/wiki/index.php/When_you_wore_a_tulip_(Percy_Wenrich)",
-      "credit": "Edition by Rafael Ornes from the Choral Public Domain Library (CPDL): https://www.cpdl.org/wiki/index.php/When_you_wore_a_tulip_(Percy_Wenrich). Released under the CPDL License (https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL); file unmodified."
+      "credit": "Edition by Rafael Ornes from the Choral Public Domain Library (CPDL): https://www.cpdl.org/wiki/index.php/When_you_wore_a_tulip_(Percy_Wenrich). Released under the CPDL License (https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL); file unmodified.",
+      "category": "Barbershop"
     },
     {
-      "id": "cpdl-ws-heidelbe",
-      "title": "Heidelberg Stein Song",
-      "composer": "Gustav Luders",
-      "collection": "Barbershop",
-      "voicing": "TTBB",
+      "id": "lc5043594",
+      "title": "Trauer",
+      "composer": "Peter Cornelius",
+      "lyricist": "Peter Cornelius",
+      "collection": "Trauer und Trost, Op.3",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Voice",
+        "Piano"
+      ],
+      "file": "scores/lc5043594.mxl",
+      "license": "CC0-1.0",
+      "source": "http://imslp.org/wiki/Trauer_und_Trost%2C_Op.3_(Cornelius%2C_Peter",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Cornelius,_Peter/Trauer_und_Trost,_Op.3/1_Trauer/lc5043594.mscx",
+      "credit": "Transcribed by ashmoggs from IMSLP# 80679. Source: http://imslp.org/wiki/Trauer_und_Trost%2C_Op.3_(Cornelius%2C_Peter)",
+      "category": "Art songs"
+    },
+    {
+      "id": "lc6202319",
+      "title": "Lullaby",
+      "composer": "Peter Warlock",
+      "lyricist": "Thomas Dekker",
+      "collection": "Songs",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Voice",
+        "Piano"
+      ],
+      "file": "scores/lc6202319.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/Songs_(Warlock,_Peter",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Warlock%2C_Peter/Songs/13_Lullaby",
+      "credit": "Transcribed by markpearse from IMSLP #250921. Source: https://imslp.org/wiki/Songs_(Warlock,_Peter)",
+      "category": "Art songs"
+    },
+    {
+      "id": "sq11738245",
+      "title": "String Quartet No.1, Op.11",
+      "composer": "Pyotr Ilyich Tchaikovsky",
+      "collection": "String quartets",
+      "voicing": "String quartet",
       "voices": 4,
-      "style": "barbershop",
-      "file": "scores/cpdl-ws-heidelbe.mxl",
-      "license": "Public Domain (as marked by the CPDL editor)",
-      "source": "https://www.cpdl.org/wiki/index.php/Heidelberg_Stein_Song_(Gustav_Luders)",
-      "credit": "Edition by Douglas Walczak (arr. Charles F. Shattuck) from the Choral Public Domain Library (CPDL): https://www.cpdl.org/wiki/index.php/Heidelberg_Stein_Song_(Gustav_Luders). Marked Public Domain by its CPDL editor; file unmodified."
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq11738245.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/5108570",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Tchaikovsky%2C_Pyotr_Ilyich/String_Quartet_No.1%2C_Op.11",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5108570",
+      "category": "String quartets"
+    },
+    {
+      "id": "cpdl-67926",
+      "title": "Ubi caritas",
+      "composer": "Richard Quesnel",
+      "collection": "Choral and sacred",
+      "voicing": "Choral (3 voices)",
+      "voices": 3,
+      "parts": [
+        "Soprano",
+        "Alto",
+        "Ténor",
+        "Basse"
+      ],
+      "file": "scores/cpdl-67926.mxl",
+      "license": "CPDL License",
+      "licenseUrl": "https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL",
+      "source": "https://www.cpdl.org/wiki/index.php/Ubi_caritas_(Richard_Quesnel)",
+      "editor": "Richard Quesnel",
+      "cpdl": "67926",
+      "credit": "Richard Quesnel. Ubi caritas (Quesnel), CPDL #67926. Choral Public Domain Library (ChoralWiki), https://www.cpdl.org/wiki/index.php/Ubi_caritas_(Richard_Quesnel).",
+      "notice": "Edition by Richard Quesnel, Choral Public Domain Library (CPDL #67926). Distributed under the CPDL License: it may be copied, performed, recorded and modified, provided this notice stays with it and any derived edition is released under the same licence. https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL",
+      "category": "Choral and sacred"
+    },
+    {
+      "id": "lc6199572",
+      "title": "Cäcilie",
+      "composer": "Richard Strauss",
+      "lyricist": "Hart, Heinrich",
+      "collection": "4 Lieder, Op. 27",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Voice",
+        "Piano"
+      ],
+      "file": "scores/lc6199572.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/4_Lieder,_Op.27_(Strauss,_Richard",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Strauss%2C_Richard/4_Lieder%2C_Op.27/2_C%C3%A4cilie",
+      "credit": "Transcribed by pental from IMSLP# 135548. Source: https://imslp.org/wiki/4_Lieder,_Op.27_(Strauss,_Richard)",
+      "category": "Art songs"
+    },
+    {
+      "id": "lc6199578",
+      "title": "Morgen!",
+      "composer": "Richard Strauss",
+      "lyricist": "John Henry Mackay",
+      "collection": "4 Lieder, Op. 27",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Gesang Voice",
+        "Piano"
+      ],
+      "file": "scores/lc6199578.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/4_Lieder,_Op.27_(Strauss,_Richard",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Strauss%2C_Richard/4_Lieder%2C_Op.27/4_Morgen!",
+      "credit": "Transcribed by pental from IMSLP# 135548. Source: https://imslp.org/wiki/4_Lieder,_Op.27_(Strauss,_Richard)",
+      "category": "Art songs"
+    },
+    {
+      "id": "lc6891758",
+      "title": "Der Nussbaum",
+      "composer": "Robert Schumann",
+      "lyricist": "Julius Mosen",
+      "collection": "Myrthen, Op.25",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Voice",
+        "Piano"
+      ],
+      "file": "scores/lc6891758.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/Special:ReverseLookup/270905",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Schumann%2C_Robert/Myrthen%2C_Op.25/03_Der_Nussbaum",
+      "credit": "Transcribed by mooing from IMSLP #270905. Source: https://imslp.org/wiki/Special:ReverseLookup/270905",
+      "category": "Art songs"
+    },
+    {
+      "id": "lc6909797",
+      "title": "Die Lotosblume",
+      "composer": "Robert Schumann",
+      "lyricist": "Heinrich Heine",
+      "collection": "Myrthen, Op.25",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Voice",
+        "Piano"
+      ],
+      "file": "scores/lc6909797.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/Special:ReverseLookup/270905",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Schumann%2C_Robert/Myrthen%2C_Op.25/07_Die_Lotosblume",
+      "credit": "Transcribed by flutemouse from IMSLP #270905. Source: https://imslp.org/wiki/Special:ReverseLookup/270905",
+      "category": "Art songs"
+    },
+    {
+      "id": "lc4978382",
+      "title": "Ich grolle nicht",
+      "composer": "Robert Schumann",
+      "lyricist": "Heinrich Heine",
+      "collection": "Dichterliebe, Op.48",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Voice",
+        "Piano"
+      ],
+      "file": "scores/lc4978382.mxl",
+      "license": "CC0-1.0",
+      "source": "https://github.com/OpenScore/Lieder/blob/main/scores/Schumann%2C_Robert/Dichterliebe%2C_Op.48/07_Ich_grolle_nicht",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Schumann%2C_Robert/Dichterliebe%2C_Op.48/07_Ich_grolle_nicht",
+      "credit": "Transcribed by the OpenScore Lieder project from public-domain editions hosted on IMSLP. Source: https://github.com/OpenScore/Lieder/blob/main/scores/Schumann%2C_Robert/Dichterliebe%2C_Op.48/07_Ich_grolle_nicht",
+      "category": "Art songs"
+    },
+    {
+      "id": "lc4976777",
+      "title": "Im wunderschönen Monat Mai",
+      "composer": "Robert Schumann",
+      "lyricist": "Heinrich Heine",
+      "collection": "Dichterliebe, Op.48",
+      "voicing": "Solo voice",
+      "voices": 0,
+      "parts": [
+        "Clarinet in C",
+        "Piano"
+      ],
+      "file": "scores/lc4976777.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/Special:ReverseLookup/51736",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Schumann%2C_Robert/Dichterliebe%2C_Op.48/01_Im_wundersch%C3%B6nen_Monat_Mai",
+      "credit": "Transcribed from the IMSLP file(s) at https://imslp.org/wiki/Special:ReverseLookup/51736",
+      "category": "Art songs"
+    },
+    {
+      "id": "lc4987640",
+      "title": "Mondnacht",
+      "composer": "Robert Schumann",
+      "lyricist": "Joseph von Eichendorff",
+      "collection": "Liederkreis, Op.39",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Voice",
+        "Piano"
+      ],
+      "file": "scores/lc4987640.mxl",
+      "license": "CC0-1.0",
+      "source": "https://github.com/OpenScore/Lieder/blob/main/scores/Schumann%2C_Robert/Liederkreis%2C_Op.39/05_Mondnacht",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Schumann%2C_Robert/Liederkreis%2C_Op.39/05_Mondnacht",
+      "credit": "Transcribed by the OpenScore Lieder project from public-domain editions hosted on IMSLP. Source: https://github.com/OpenScore/Lieder/blob/main/scores/Schumann%2C_Robert/Liederkreis%2C_Op.39/05_Mondnacht",
+      "category": "Art songs"
+    },
+    {
+      "id": "lc4978468",
+      "title": "Seit ich ihn gesehen",
+      "composer": "Robert Schumann",
+      "lyricist": "Adelbert von Chamisso",
+      "collection": "Frauenliebe und Leben, Op.42",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Voice",
+        "Piano"
+      ],
+      "file": "scores/lc4978468.mxl",
+      "license": "CC0-1.0",
+      "source": "https://github.com/OpenScore/Lieder/blob/main/scores/Schumann%2C_Robert/Frauenliebe_und_Leben%2C_Op.42/1_Seit_ich_ihn_gesehen",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Schumann%2C_Robert/Frauenliebe_und_Leben%2C_Op.42/1_Seit_ich_ihn_gesehen",
+      "credit": "Transcribed by the OpenScore Lieder project from public-domain editions hosted on IMSLP. Source: https://github.com/OpenScore/Lieder/blob/main/scores/Schumann%2C_Robert/Frauenliebe_und_Leben%2C_Op.42/1_Seit_ich_ihn_gesehen",
+      "category": "Art songs"
+    },
+    {
+      "id": "sq9010547",
+      "title": "String Quartet No.1, Op.41 No.1",
+      "composer": "Robert Schumann",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq9010547.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/5108569",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Schumann%2C_Robert/String_Quartet_No.1%2C_Op.41_No.1",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5108569",
+      "category": "String quartets"
+    },
+    {
+      "id": "lc6885211",
+      "title": "Widmung",
+      "composer": "Robert Schumann",
+      "lyricist": "Friedrich Rückert",
+      "collection": "Myrthen, Op.25",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Voice",
+        "Piano"
+      ],
+      "file": "scores/lc6885211.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/Special:ReverseLookup/270905",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Schumann%2C_Robert/Myrthen%2C_Op.25/01_Widmung",
+      "credit": "Transcribed by markpearse from IMSLP #270905. Source: https://imslp.org/wiki/Special:ReverseLookup/270905",
+      "category": "Art songs"
+    },
+    {
+      "id": "lc30908660",
+      "title": "Cherry Ripe",
+      "composer": "Roger Quilter",
+      "lyricist": "Robert Herrick",
+      "collection": "To Julia, Op.8",
+      "voicing": "Solo voice",
+      "voices": 0,
+      "parts": [
+        "Oboe",
+        "Piano"
+      ],
+      "file": "scores/lc30908660.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/Special:ReverseLookup/321919",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Quilter%2C_Roger/To_Julia%2C_Op.8/8_Cherry_Ripe",
+      "credit": "Transcribed from the IMSLP file(s) at https://imslp.org/wiki/Special:ReverseLookup/321919",
+      "category": "Art songs"
+    },
+    {
+      "id": "lc29746199",
+      "title": "O Mistress Mine",
+      "composer": "Roger Quilter",
+      "lyricist": "William Shakespeare",
+      "collection": "3 Shakespeare Songs, Op.6",
+      "voicing": "Solo voice",
+      "voices": 1,
+      "parts": [
+        "Voice",
+        "Piano"
+      ],
+      "file": "scores/lc29746199.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/Special:ReverseLookup/444590",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Quilter%2C_Roger/3_Shakespeare_Songs%2C_Op.6/2_O_Mistress_Mine",
+      "credit": "Transcribed from the IMSLP file(s) at https://imslp.org/wiki/Special:ReverseLookup/444590",
+      "category": "Art songs"
+    },
+    {
+      "id": "cpdl-21455",
+      "title": "America, the Beautiful",
+      "composer": "Samuel A. Ward",
+      "collection": "Patriotic and folk",
+      "voicing": "Choral",
+      "voices": 0,
+      "parts": [
+        "P1"
+      ],
+      "file": "scores/cpdl-21455.mxl",
+      "license": "Public Domain (as marked by the editor)",
+      "source": "https://www.cpdl.org/wiki/index.php/America,_the_Beautiful_(Samuel_A._Ward)",
+      "editor": "Ashley Etzkorn",
+      "cpdl": "21455",
+      "credit": "Ashley Etzkorn. America, the Beautiful (Ward), CPDL #21455. Choral Public Domain Library (ChoralWiki), https://www.cpdl.org/wiki/index.php/America,_the_Beautiful_(Samuel_A._Ward).",
+      "notice": "Edition by Ashley Etzkorn, Choral Public Domain Library (CPDL #21455), marked Public Domain by the editor.",
+      "category": "Patriotic and folk"
+    },
+    {
+      "id": "lc6604179",
+      "title": "Les langueurs",
+      "composer": "Sophie Gail",
+      "lyricist": "Unknown",
+      "collection": "Les langueurs",
+      "voicing": "Vocal duet",
+      "voices": 2,
+      "parts": [
+        "1er Dessus Voice 1",
+        "2d Dessus Voice 2",
+        "Piano"
+      ],
+      "file": "scores/lc6604179.mxl",
+      "license": "CC0-1.0",
+      "source": "https://imslp.org/wiki/Special:ReverseLookup/173062",
+      "corpus": "https://github.com/OpenScore/Lieder/blob/main/scores/Gail,_Sophie/_/Les_langueurs/lc6604179.mscx",
+      "credit": "Transcribed from IMSLP #173062. Source: https://imslp.org/wiki/Special:ReverseLookup/173062",
+      "category": "Art songs"
     },
     {
       "id": "cpdl-tayl-down",
@@ -378,7 +2483,389 @@
       "file": "scores/cpdl-tayl-down.mxl",
       "license": "CPDL",
       "source": "https://www.cpdl.org/wiki/index.php/Down_by_the_old_mill_stream_(Tell_Taylor)",
-      "credit": "Edition by Ken Sambuchi (arr. C. J. Spatafora, from “The Old Songs Chorus”) from the Choral Public Domain Library (CPDL): https://www.cpdl.org/wiki/index.php/Down_by_the_old_mill_stream_(Tell_Taylor). Released under the CPDL License (https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL); file unmodified."
+      "credit": "Edition by Ken Sambuchi (arr. C. J. Spatafora, from “The Old Songs Chorus”) from the Choral Public Domain Library (CPDL): https://www.cpdl.org/wiki/index.php/Down_by_the_old_mill_stream_(Tell_Taylor). Released under the CPDL License (https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL); file unmodified.",
+      "category": "Barbershop"
+    },
+    {
+      "id": "cpdl-61085",
+      "title": "Now is the month of maying",
+      "composer": "Thomas Morley",
+      "collection": "Choral and sacred",
+      "voicing": "Choral (4 voices)",
+      "voices": 4,
+      "parts": [
+        "CANTO",
+        "ALTO",
+        "QUINTO",
+        "TENORE",
+        "BASSO"
+      ],
+      "file": "scores/cpdl-61085.mxl",
+      "license": "Public Domain (as marked by the editor)",
+      "source": "https://www.cpdl.org/wiki/index.php/Now_is_the_month_of_maying_(Thomas_Morley)",
+      "editor": "Leonardo Lollini",
+      "cpdl": "61085",
+      "credit": "Leonardo Lollini. Now is the month of maying (Morley), CPDL #61085. Choral Public Domain Library (ChoralWiki), https://www.cpdl.org/wiki/index.php/Now_is_the_month_of_maying_(Thomas_Morley).",
+      "notice": "Edition by Leonardo Lollini, Choral Public Domain Library (CPDL #61085), marked Public Domain by the editor.",
+      "category": "Choral and sacred"
+    },
+    {
+      "id": "cpdl-70330",
+      "title": "If ye love me",
+      "composer": "Thomas Tallis",
+      "collection": "Choral and sacred",
+      "voicing": "Choral (4 voices)",
+      "voices": 4,
+      "parts": [
+        "Alto I",
+        "Alto II",
+        "Tenor",
+        "Bass"
+      ],
+      "file": "scores/cpdl-70330.mxl",
+      "license": "CPDL License",
+      "licenseUrl": "https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL",
+      "source": "https://www.cpdl.org/wiki/index.php/If_ye_love_me_(Thomas_Tallis)",
+      "editor": "Seth Engel",
+      "cpdl": "70330",
+      "credit": "Seth Engel. If ye love me (Tallis), CPDL #70330. Choral Public Domain Library (ChoralWiki), https://www.cpdl.org/wiki/index.php/If_ye_love_me_(Thomas_Tallis).",
+      "notice": "Edition by Seth Engel, Choral Public Domain Library (CPDL #70330). Distributed under the CPDL License: it may be copied, performed, recorded and modified, provided this notice stays with it and any derived edition is released under the same licence. https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL",
+      "category": "Choral and sacred"
+    },
+    {
+      "id": "cpdl-64683",
+      "title": "Spem in alium",
+      "composer": "Thomas Tallis",
+      "collection": "Choral and sacred",
+      "voicing": "Choral (4 voices)",
+      "voices": 4,
+      "parts": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "1 0",
+        "Choir II",
+        "A",
+        "B",
+        "MusicXML Part",
+        "Choir III",
+        "A",
+        "B",
+        "MusicXML Part",
+        "Choir IV",
+        "A",
+        "IVA",
+        "B",
+        "Thorough",
+        "Th. Bass"
+      ],
+      "file": "scores/cpdl-64683.mxl",
+      "license": "CPDL License",
+      "licenseUrl": "https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL",
+      "source": "https://www.cpdl.org/wiki/index.php/Spem_in_alium_(Thomas_Tallis)",
+      "editor": "Andrew Leslie Cooper",
+      "cpdl": "64683",
+      "credit": "Andrew Leslie Cooper. Spem in alium (Tallis), CPDL #64683. Choral Public Domain Library (ChoralWiki), https://www.cpdl.org/wiki/index.php/Spem_in_alium_(Thomas_Tallis).",
+      "notice": "Edition by Andrew Leslie Cooper, Choral Public Domain Library (CPDL #64683). Distributed under the CPDL License: it may be copied, performed, recorded and modified, provided this notice stays with it and any derived edition is released under the same licence. https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL",
+      "category": "Choral and sacred"
+    },
+    {
+      "id": "cpdl-67155",
+      "title": "O magnum mysterium",
+      "composer": "Tomás Luis de Victoria",
+      "collection": "Choral and sacred",
+      "voicing": "Choral (4 voices)",
+      "voices": 4,
+      "parts": [
+        "Soprano",
+        "Alto",
+        "Tenor",
+        "Bass"
+      ],
+      "file": "scores/cpdl-67155.mxl",
+      "license": "CPDL License",
+      "licenseUrl": "https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL",
+      "source": "https://www.cpdl.org/wiki/index.php/O_magnum_mysterium_(Tomás_Luis_de_Victoria)",
+      "editor": "Holt Skinner",
+      "cpdl": "67155",
+      "credit": "Holt Skinner. O magnum mysterium (Victoria), CPDL #67155. Choral Public Domain Library (ChoralWiki), https://www.cpdl.org/wiki/index.php/O_magnum_mysterium_(Tomás_Luis_de_Victoria).",
+      "notice": "Edition by Holt Skinner, Choral Public Domain Library (CPDL #67155). Distributed under the CPDL License: it may be copied, performed, recorded and modified, provided this notice stays with it and any derived edition is released under the same licence. https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL",
+      "category": "Choral and sacred"
+    },
+    {
+      "id": "cpdl-41966",
+      "title": "Amazing grace",
+      "composer": "Traditional",
+      "collection": "Hymns and Christmas",
+      "voicing": "Choral",
+      "voices": 0,
+      "parts": [
+        "MusicXML Part",
+        "MusicXML Part",
+        "MusicXML Part",
+        "MusicXML Part",
+        "MusicXML Part"
+      ],
+      "file": "scores/cpdl-41966.mxl",
+      "license": "Public Domain (as marked by the editor)",
+      "source": "https://www.cpdl.org/wiki/index.php/Amazing_grace_(Traditional)",
+      "editor": "Paul Hayward",
+      "cpdl": "41966",
+      "credit": "Paul Hayward. Amazing Grace (Traditional), CPDL #41966. Choral Public Domain Library (ChoralWiki), https://www.cpdl.org/wiki/index.php/Amazing_grace_(Traditional).",
+      "notice": "Edition by Paul Hayward, Choral Public Domain Library (CPDL #41966), marked Public Domain by the editor.",
+      "category": "Hymns and Christmas"
+    },
+    {
+      "id": "cpdl-37897",
+      "title": "Auld lang syne",
+      "composer": "Traditional",
+      "collection": "Patriotic and folk",
+      "voicing": "Choral",
+      "voices": 0,
+      "parts": [
+        "P1"
+      ],
+      "file": "scores/cpdl-37897.mxl",
+      "license": "Public Domain (as marked by the editor)",
+      "source": "https://www.cpdl.org/wiki/index.php/Auld_lang_syne_(Traditional)",
+      "editor": "Philip Rice",
+      "cpdl": "37897",
+      "credit": "Philip Rice. Auld lang syne (Traditional), CPDL #37897. Choral Public Domain Library (ChoralWiki), https://www.cpdl.org/wiki/index.php/Auld_lang_syne_(Traditional).",
+      "notice": "Edition by Philip Rice, Choral Public Domain Library (CPDL #37897), marked Public Domain by the editor.",
+      "category": "Patriotic and folk"
+    },
+    {
+      "id": "cpdl-82817",
+      "title": "Coventry Carol",
+      "composer": "Traditional",
+      "collection": "Hymns and Christmas",
+      "voicing": "Choral",
+      "voices": 0,
+      "parts": [
+        "MusicXML Part",
+        "MusicXML Part"
+      ],
+      "file": "scores/cpdl-82817.mxl",
+      "license": "Creative Commons Attribution (CC BY)",
+      "source": "https://www.cpdl.org/wiki/index.php/Coventry_Carol_(Traditional)",
+      "editor": "Ben Byram-Wigfield",
+      "cpdl": "82817",
+      "credit": "Ben Byram-Wigfield. Coventry Carol (Traditional), CPDL #82817. Choral Public Domain Library (ChoralWiki), https://www.cpdl.org/wiki/index.php/Coventry_Carol_(Traditional).",
+      "notice": "Edition by Ben Byram-Wigfield, Choral Public Domain Library (CPDL #82817), licensed under Creative Commons Attribution (CC BY). Credit the editor when you share it. See the CPDL page for the exact licence version.",
+      "category": "Hymns and Christmas"
+    },
+    {
+      "id": "cpdl-80557",
+      "title": "Deep river",
+      "composer": "Traditional",
+      "collection": "Patriotic and folk",
+      "voicing": "Choral",
+      "voices": 0,
+      "parts": [
+        "P1",
+        "P2",
+        "P3",
+        "P4"
+      ],
+      "file": "scores/cpdl-80557.mxl",
+      "license": "CPDL License",
+      "licenseUrl": "https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL",
+      "source": "https://www.cpdl.org/wiki/index.php/Deep_river_(Traditional)",
+      "editor": "David Greenwood",
+      "cpdl": "80557",
+      "credit": "David Greenwood. Deep river (Traditional), CPDL #80557. Choral Public Domain Library (ChoralWiki), https://www.cpdl.org/wiki/index.php/Deep_river_(Traditional).",
+      "notice": "Edition by David Greenwood, Choral Public Domain Library (CPDL #80557). Distributed under the CPDL License: it may be copied, performed, recorded and modified, provided this notice stays with it and any derived edition is released under the same licence. https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL",
+      "category": "Patriotic and folk"
+    },
+    {
+      "id": "cpdl-89048",
+      "title": "Go down, Moses",
+      "composer": "Traditional",
+      "collection": "Patriotic and folk",
+      "voicing": "Choral (4 voices)",
+      "voices": 4,
+      "parts": [
+        "Soprano",
+        "Alto",
+        "Tenor",
+        "Bass"
+      ],
+      "file": "scores/cpdl-89048.mxl",
+      "license": "Public Domain (as marked by the editor)",
+      "source": "https://www.cpdl.org/wiki/index.php/Go_down,_Moses_(Traditional)",
+      "editor": "Eduardo Méndez",
+      "cpdl": "89048",
+      "credit": "Eduardo Méndez. Go down, Moses (Traditional), CPDL #89048. Choral Public Domain Library (ChoralWiki), https://www.cpdl.org/wiki/index.php/Go_down,_Moses_(Traditional).",
+      "notice": "Edition by Eduardo Méndez, Choral Public Domain Library (CPDL #89048), marked Public Domain by the editor. Melody and text from Rodeheaver's Plantation Melodies (1918), copyright 1918 by Homer A. Rodeheaver; now public domain.",
+      "category": "Patriotic and folk"
+    },
+    {
+      "id": "cpdl-47597",
+      "title": "Good King Wenceslas",
+      "composer": "Traditional",
+      "collection": "Hymns and Christmas",
+      "voicing": "Choral",
+      "voices": 0,
+      "parts": [],
+      "file": "scores/cpdl-47597.mxl",
+      "license": "CPDL License",
+      "licenseUrl": "https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL",
+      "source": "https://www.cpdl.org/wiki/index.php/Good_King_Wenceslas_(Traditional)",
+      "editor": "Andrew Sims",
+      "cpdl": "47597",
+      "credit": "Andrew Sims. Good King Wenceslas (Traditional), CPDL #47597. Choral Public Domain Library (ChoralWiki), https://www.cpdl.org/wiki/index.php/Good_King_Wenceslas_(Traditional).",
+      "notice": "Edition by Andrew Sims, Choral Public Domain Library (CPDL #47597). Distributed under the CPDL License: it may be copied, performed, recorded and modified, provided this notice stays with it and any derived edition is released under the same licence. https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL",
+      "category": "Hymns and Christmas"
+    },
+    {
+      "id": "cpdl-82719",
+      "title": "The first Nowell",
+      "composer": "Traditional",
+      "collection": "Hymns and Christmas",
+      "voicing": "Choral",
+      "voices": 0,
+      "parts": [
+        "MusicXML Part",
+        "MusicXML Part"
+      ],
+      "file": "scores/cpdl-82719.mxl",
+      "license": "Public Domain (as marked by the editor)",
+      "source": "https://www.cpdl.org/wiki/index.php/The_first_Nowell_(Traditional)",
+      "editor": "Joseph Walker",
+      "cpdl": "82719",
+      "credit": "Joseph Walker. The first Nowell (Traditional), CPDL #82719. Choral Public Domain Library (ChoralWiki), https://www.cpdl.org/wiki/index.php/The_first_Nowell_(Traditional).",
+      "notice": "Edition by Joseph Walker, Choral Public Domain Library (CPDL #82719), marked Public Domain by the editor.",
+      "category": "Hymns and Christmas"
+    },
+    {
+      "id": "cpdl-11784",
+      "title": "Ave verum corpus, KV 618",
+      "composer": "Wolfgang Amadeus Mozart",
+      "collection": "Choral and sacred",
+      "voicing": "Choral (4 voices)",
+      "voices": 4,
+      "parts": [
+        "Soprano",
+        "Alto",
+        "Tenore",
+        "Basso",
+        "Reductio partiturae"
+      ],
+      "file": "scores/cpdl-11784.mxl",
+      "license": "CPDL License",
+      "licenseUrl": "https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL",
+      "source": "https://www.cpdl.org/wiki/index.php/Ave_verum_corpus,_KV_618_(Wolfgang_Amadeus_Mozart)",
+      "editor": "Philip Legge",
+      "cpdl": "11784",
+      "credit": "Philip Legge. Ave verum corpus, KV 618 (Mozart), CPDL #11784. Choral Public Domain Library (ChoralWiki), https://www.cpdl.org/wiki/index.php/Ave_verum_corpus,_KV_618_(Wolfgang_Amadeus_Mozart).",
+      "notice": "Copyright © 2006 Philip Legge, for the Choral Public Domain Library, http://www.cpdl.org/ Edition may be freely distributed, duplicated, performed, or recorded. All other rights reserved.",
+      "category": "Choral and sacred"
+    },
+    {
+      "id": "sq7103818",
+      "title": "String Quartet No.14 in G major, K.387 (Op. 10, No. 1)",
+      "composer": "Wolfgang Amadeus Mozart",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq7103818.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/5108511",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Mozart%2C_Wolfgang_Amadeus/String_Quartet_No.14_in_G_major%2C_K.387_(Op._10%2C_No._1)",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5108511",
+      "category": "String quartets"
+    },
+    {
+      "id": "sq7294793",
+      "title": "String Quartet No.15 in D minor, K.421417b (Op. 10, No. 2)",
+      "composer": "Wolfgang Amadeus Mozart",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq7294793.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/5108512",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Mozart%2C_Wolfgang_Amadeus/String_Quartet_No.15_in_D_minor%2C_K.421417b_(Op._10%2C_No._2)",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5108512",
+      "category": "String quartets"
+    },
+    {
+      "id": "sq7353137",
+      "title": "String Quartet No.17 in B-flat major, K.458 (Op. 10, No. 3)",
+      "composer": "Wolfgang Amadeus Mozart",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq7353137.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/5108514",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Mozart%2C_Wolfgang_Amadeus/String_Quartet_No.17_in_B-flat_major%2C_K.458_(Op._10%2C_No._3)",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5108514",
+      "category": "String quartets"
+    },
+    {
+      "id": "sq7471661",
+      "title": "String Quartet No.19 in C major, K.465 “Dissonance”",
+      "composer": "Wolfgang Amadeus Mozart",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq7471661.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/5108516",
+      "corpus": "https://github.com/OpenScore/StringQuartets/tree/main/scores/Mozart%2C_Wolfgang_Amadeus/String_Quartet_No.19_in_C_major%2C_K.465_%28Op._10%2C_No._6%29",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/5108516",
+      "category": "String quartets"
+    },
+    {
+      "id": "sq16138966",
+      "title": "String Quartet No.21 in D major, K.575",
+      "composer": "Wolfgang Amadeus Mozart",
+      "collection": "String quartets",
+      "voicing": "String quartet",
+      "voices": 4,
+      "parts": [
+        "Violin 1",
+        "Violin 2",
+        "Viola",
+        "Violoncello"
+      ],
+      "file": "scores/sq16138966.mxl",
+      "license": "CC0-1.0",
+      "source": "https://musescore.com/openscore-string-quartets/sets/6406813",
+      "corpus": "https://github.com/OpenScore/StringQuartets/blob/main/scores/Mozart%2C_Wolfgang_Amadeus/String_Quartet_No.21_in_D_major%2C_K.575",
+      "credit": "Transcribed by the OpenScore String Quartets project from public-domain editions on IMSLP. Source: https://musescore.com/openscore-string-quartets/sets/6406813",
+      "category": "String quartets"
     }
   ]
 }
